@@ -1,2 +1,45 @@
-# Google-Cybersecurity-Training-Portfolio
-A continuously developing repository documenting my applied learning in cybersecurity, encompassing core principles, network defense strategies, threat analysis, and incident response, as acquired through the Google Cybersecurity Training program. 
+# 🚀 Google Cybersecurity Certificate Portfolio
+
+Welcome to my cybersecurity portfolio! 🎯 This repository showcases my learning journey through the Google Cybersecurity Certificate. Each module deepened my understanding of cybersecurity principles and built practical skills through hands-on projects.
+
+---
+
+## 📚 Courses & Projects
+
+| # | Course Title | Description | Portfolio Project |
+|---|--------------|-------------|-------------------|
+| 1 | [Foundations of Cybersecurity](./Foundations-of-Cybersecurity) | Intro to cybersecurity roles, frameworks, and responsibilities | [View Project](./Foundations-of-Cybersecurity) |
+| 2 | [Play It Safe: Manage Security Risks](./Play-It-Safe) | Threat modeling, governance, and risk frameworks | [View Project](./Play-It-Safe) |
+| 3 | [Connect and Protect: Networks](./Connect-and-Protect) | Network layers, protocols, and security tools | [View Project](./Connect-and-Protect) |
+| 4 | [Tools of the Trade: Linux and SQL](./Tools-of-the-Trade) | Bash commands, SQL queries, and log analysis | [View Project](./Tools-of-the-Trade) |
+| 5 | [Assets, Threats, and Vulnerabilities](./Assets-Threats-Vulnerabilities) | System assessments and vulnerability discovery | [View Project](./Assets-Threats-Vulnerabilities) |
+| 6 | [Sound the Alarm: Detection & Response](./Sound-the-Alarm) | Incident response, monitoring, and SIEMs | [View Project](./Sound-the-Alarm) |
+| 7 | [Automate Cybersecurity Tasks with Python](./Automate-with-Python) | Python scripting for automation | [View Project](./Automate-with-Python) |
+| 8 | [Put It to Work: Career Preparation](./Put-It-To-Work) | Resume, storytelling, and interview strategies | [View Project](./Put-It-To-Work) |
+| 9 | [Accelerate Your Job Search with AI](./AI-Job-Search) | Job planning, AI tools, and positioning | [View Project](./AI-Job-Search) |
+
+---
+
+## 💼 About Me
+
+Hi, I'm CJ—a cybersecurity professional-in-training passionate about digital safety, ethical hacking, and lifelong learning. Through this program, I intend to build a strong foundation in defending networks, managing risks, and using automation to elevate security practices. 
+
+---
+
+## 🧭 Skills to Gain
+
+- ✅ Risk Management & Threat Analysis  
+- ✅ Network Security & Monitoring  
+- ✅ Incident Response & SIEM tools  
+- ✅ Python Scripting for Automation  
+- ✅ Linux, SQL & Log Analysis  
+- ✅ Career Development + AI Job Tools
+
+---
+
+## 📬 Connect with me on 
+
+
+  
+
+---
