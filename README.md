@@ -1,3 +1,5 @@
+<p align="center"><img src="Assets/Google_logo.png" alt="Google Course Logo" width="100"/></p>
+
 # 🚀 Google Cybersecurity Certificate Portfolio
 
 Welcome to my cybersecurity portfolio! 🎯 This repository showcases my learning journey through the Google Cybersecurity Certificate. Each module deepened my understanding of cybersecurity principles and built practical skills through hands-on projects.
