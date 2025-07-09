@@ -1,6 +1,6 @@
 <p align="center"><img src="../../Assets/Google_logo.png" alt="Google Course Logo" width="100"/></p>
 
-# 🧭 Foundations of Cybersecurity
+<h2><p align="center">🧭 Foundations of Cybersecurity</p></h2>
 
 ## 📌 Overview
 This course kicked off my Google Cybersecurity Certificate journey by laying down the foundational knowledge every cybersecurity professional should know. It introduced key roles, core principles, and industry frameworks that help keep our digital world secure—and emphasized the importance of understanding cybersecurity terminology to communicate and collaborate effectively.
