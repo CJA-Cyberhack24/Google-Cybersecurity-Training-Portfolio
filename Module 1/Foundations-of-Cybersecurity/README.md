@@ -1,4 +1,4 @@
-<p align="center"><img src="Assets/Google_logo.png" alt="Google Course Logo" width="100"/></p>
+<p align="center"><img src="Google-Cybersecurity-Training-Portfolio/Assets/Google_logo.png" alt="Google Course Logo" width="100"/></p>
 
 # 🧭 Foundations of Cybersecurity
 
