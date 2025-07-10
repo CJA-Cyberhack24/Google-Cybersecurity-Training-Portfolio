@@ -1,1 +1,0 @@
-<p align="center"><img src="Assets/Google_logo.png" alt="Google Course Logo" width="100"/></p>
