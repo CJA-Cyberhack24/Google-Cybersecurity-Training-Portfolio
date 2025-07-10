@@ -1,45 +1,70 @@
 <p align="center"><img src="Assets/Google_logo.png" alt="Google Course Logo" width="100"/></p>
 
-# 🚀 Google Cybersecurity Certificate Portfolio
-
-Welcome to my cybersecurity portfolio! 🎯 This repository showcases my learning journey through the Google Cybersecurity Certificate. Each module deepened my understanding of cybersecurity principles and built practical skills through hands-on projects.
 
 ---
 
-## 📚 Courses & Projects
+# 🛡️ Google Cybersecurity Training Portfolio
 
-| # | Course Title | Description | Portfolio Project |
-|---|--------------|-------------|-------------------|
-| 1 | [Foundations of Cybersecurity](./Foundations-of-Cybersecurity) | Intro to cybersecurity roles, frameworks, and responsibilities | [View Project](./Foundations-of-Cybersecurity) |
-| 2 | [Play It Safe: Manage Security Risks](./Play-It-Safe) | Threat modeling, governance, and risk frameworks | [View Project](./Play-It-Safe) |
-| 3 | [Connect and Protect: Networks](./Connect-and-Protect) | Network layers, protocols, and security tools | [View Project](./Connect-and-Protect) |
-| 4 | [Tools of the Trade: Linux and SQL](./Tools-of-the-Trade) | Bash commands, SQL queries, and log analysis | [View Project](./Tools-of-the-Trade) |
-| 5 | [Assets, Threats, and Vulnerabilities](./Assets-Threats-Vulnerabilities) | System assessments and vulnerability discovery | [View Project](./Assets-Threats-Vulnerabilities) |
-| 6 | [Sound the Alarm: Detection & Response](./Sound-the-Alarm) | Incident response, monitoring, and SIEMs | [View Project](./Sound-the-Alarm) |
-| 7 | [Automate Cybersecurity Tasks with Python](./Automate-with-Python) | Python scripting for automation | [View Project](./Automate-with-Python) |
-| 8 | [Put It to Work: Career Preparation](./Put-It-To-Work) | Resume, storytelling, and interview strategies | [View Project](./Put-It-To-Work) |
-| 9 | [Accelerate Your Job Search with AI](./AI-Job-Search) | Job planning, AI tools, and positioning | [View Project](./AI-Job-Search) |
+Welcome to my cybersecurity portfolio! This repository documents my progress through the [Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity) offered on Coursera. It includes hands-on activities, assessments, and reflections from each course module designed to prepare learners for entry-level roles in cybersecurity.
 
 ---
 
-## 💼 About Me
+## 📚 About the Certificate
 
-Hi, I'm CJ—a cybersecurity professional-in-training passionate about digital safety, ethical hacking, and lifelong learning. Through this program, I intend to build a strong foundation in defending networks, managing risks, and using automation to elevate security practices. 
+The Google Cybersecurity Certificate is an 8-course program that covers:
 
----
-
-## 🧭 Skills to Gain
-
-- ✅ Risk Management & Threat Analysis  
-- ✅ Network Security & Monitoring  
-- ✅ Incident Response & SIEM tools  
-- ✅ Python Scripting for Automation  
-- ✅ Linux, SQL & Log Analysis  
-- ✅ Career Development + AI Job Tools
+- Risk management and threat analysis
+- Network security and incident response
+- Linux, SQL, and Python for cybersecurity
+- Security Information and Event Management (SIEM) tools
+- Intrusion Detection Systems (IDS)
+- Compliance frameworks and ethical practices
 
 ---
 
-## 📬 Connect with me on 
+## 🗂️ Repository Structure
+
+Each folder in this repository corresponds to a course module or portfolio activity:
+
+| Folder | Description |
+|--------|-------------|
+| `Foundations of Cybersecurity` | Introduction to cybersecurity fundamentals, roles, tools, and ethical practices. Covers threat evolution, basic frameworks (like CIA triad and NIST), and entry-level analyst skills. |
+| `Play It Safe` | Manage security risks and conduct audits |
+| `Connect and Protect` | Network security and hardening techniques |
+| `Tools of the Trade` | Linux and SQL for cybersecurity |
+| `Assets, Threats, and Vulnerabilities` | Vulnerability analysis and risk assessment |
+| `Sound the Alarm` | Incident detection and response |
+| `Automate Cybersecurity Tasks` | Python scripting for security automation |
+
+---
+
+## 🧠 Skills Demonstrated
+
+- 🔍 Threat analysis and vulnerability scanning
+- 🧱 Network hardening and OS security
+- 🐧 Linux file permissions and command-line tools
+- 🐍 Python scripting for automation
+- 🗃️ SQL queries and data filtering
+- 📊 SIEM tools like Splunk and Chronicle
+- 🛡️ IDS/IPS tools and firewall configuration
+
+---
+
+## 📄 License
+
+This project is shared under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/), allowing others to use and adapt the content with proper attribution.
+
+---
+
+## 🔗 Course Link
+
+Explore the full certificate on [Coursera](https://www.coursera.org/professional-certificates/google-cybersecurity).
+
+---
+
+## 🙋‍♂️ About Me
+
+I'm passionate about cybersecurity and committed to building a safer digital world. This portfolio reflects my journey through the Google Cybersecurity Certificate and my growing expertise in protecting systems and data.
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -54,4 +79,3 @@ Hi, I'm CJ—a cybersecurity professional-in-training passionate about digital s
 [linkedin]: https://linkedin.com/in/cjathanase
 [Bluesky]: https://bsky.app/profile/athanasecj.bsky.social
 
-  
