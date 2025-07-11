@@ -79,3 +79,6 @@ I'm passionate about cybersecurity and committed to building a safer digital wor
 [linkedin]: https://linkedin.com/in/cjathanase
 [Bluesky]: https://bsky.app/profile/athanasecj.bsky.social
 
+<br>
+
+<p align="right"><img src="Assets/right-arrow-6150.png" alt="right arrow" /></p>
