@@ -9,7 +9,7 @@ A visual and reference-based glossary compiling foundational cybersecurity terms
 - Optional flashcard deck or visual summary
 
 ## 📁 Files
-- [glossary.md](./glossary.md)
+- [glossary.md](https://github.com/CJA-Cyberhack24/Google-Cybersecurity-Training-Portfolio/blob/7c70d7a13144bf2aa489f705e55280d07a07716b/Foundations-of-Cybersecurity/glossary.md)
 - (Optional) glossary.png
 
 ## 💬 Reflection
