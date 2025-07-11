@@ -37,66 +37,49 @@ These terms were introduced through **Module 1: Foundations of Cybersecurity** i
 
 ---
 
-## 🛡️ Module 2: Security Principles
+# 🧩 Foundations of Cybersecurity – Module 2
 
-| Term             | Definition                                                                |
-|------------------|---------------------------------------------------------------------------|
-| Confidentiality  | Ensuring that information is accessible only to authorized individuals.    |
-| Integrity        | Safeguarding the accuracy and reliability of data and systems.             |
-| Availability     | Guaranteeing reliable access to information and systems when needed.       |
-| Non-repudiation  | Assurance that someone cannot deny the validity of their actions.          |
+## 🕰️ A Brief History of Cybersecurity
 
----
+Cybersecurity as a discipline has evolved dramatically since the early days of computing. Here's a snapshot:
 
-## 🌐 Module 3: Network Security
+- **1960s–70s**: Security focused mainly on physical access and early user authentication for military and governmental systems.
+- **1980s**: The rise of personal computers introduced broader risks. The first computer worms and viruses emerged, prompting need for antivirus tools.
+- **1990s**: As networks grew, so did the scope of vulnerabilities. Firewalls, intrusion detection systems, and risk management became essential.
+- **2000s to Today**: Cybersecurity matured into a global field, driven by data breaches, ransomware attacks, and the increasing complexity of IT infrastructure. The human factor—social engineering, insider threats—gained prominence.
 
-| Term      | Definition                                                                 |
-|-----------|----------------------------------------------------------------------------|
-| Firewall  | A system that monitors and controls incoming and outgoing network traffic.  |
-| VPN       | Virtual Private Network; encrypts data transmission over public networks.   |
-| IDS/IPS   | Intrusion Detection/Prevention Systems that identify and block threats.     |
-| Protocol  | A set of rules for data transmission across networks.                       |
+The ever-changing landscape continues to push cybersecurity from a reactive field to a proactive and strategic pillar in every organization.
 
 ---
 
-## 💾 Module 4: System Security
+## 📚 The 8 Domains of CISSP (Certified Information Systems Security Professional)
 
-| Term             | Definition                                                                 |
-|------------------|----------------------------------------------------------------------------|
-| Operating System | Software that manages hardware and software resources.                     |
-| Patch            | A software update that fixes vulnerabilities and bugs.                     |
-| Malware          | Malicious software intended to harm or exploit systems.                    |
-| Antivirus        | A program designed to detect and remove malicious software.                |
+These domains represent the foundational knowledge areas for professional cybersecurity management, used globally as a framework to build secure systems and processes:
 
----
+| # | Domain | Description |
+|---|--------|-------------|
+| 1 | **Security and Risk Management** | Focuses on governance, compliance, security policies, and ethics. Sets the strategic tone for cybersecurity in an organization. |
+| 2 | **Asset Security** | Involves protecting data and physical assets through classification, ownership models, retention policies, and access controls. |
+| 3 | **Security Architecture and Engineering** | Covers secure design principles for hardware, software, and networks, including cryptography and system vulnerabilities. |
+| 4 | **Communication and Network Security** | Deals with secure network architecture, transmission protocols, firewalls, and remote access technologies. |
+| 5 | **Identity and Access Management (IAM)** | Ensures users and systems are appropriately authenticated, authorized, and audited. |
+| 6 | **Security Assessment and Testing** | Involves conducting audits, penetration testing, vulnerability assessments, and security control evaluations. |
+| 7 | **Security Operations** | Covers monitoring, incident response, disaster recovery, and forensics—critical for day-to-day defense. |
+| 8 | **Software Development Security** | Integrates security practices into the development lifecycle to prevent vulnerabilities in applications and codebases. |
 
-## 👤 Module 5: Identity & Access Management
-
-| Term                | Definition                                                                |
-|---------------------|---------------------------------------------------------------------------|
-| Authentication      | Verifying the identity of a user or device.                               |
-| Authorization       | Granting access to resources based on permissions.                        |
-| MFA (Multi-Factor Authentication) | Requiring multiple methods to verify identity.             |
-| Role-Based Access   | Access based on the user’s role in an organization.                       |
+> 🛡️ _These domains guide cybersecurity professionals across industries—from architecture to operations—with strategies for securing systems at every level._
 
 ---
 
-## 🛠️ Module 6: Security Operations
+## 💬 Reflection
 
-| Term                  | Definition                                                               |
-|-----------------------|--------------------------------------------------------------------------|
-| SIEM                  | Security Information and Event Management; centralizes security alerts.  |
-| Incident Response     | Process for addressing and managing security breaches.                   |
-| SOC (Security Operations Center) | Team responsible for monitoring and defending systems.        |
-| Log Analysis          | Reviewing system logs to detect unusual activity.                        |
+Understanding the historical evolution of cybersecurity gave me context for today’s threats and defenses. The CISSP domains introduced a powerful structure for thinking about security holistically—not just in terms of tools and technology, but strategy, operations, and ethics.
 
 ---
 
-## 🧑‍💻 Module 7: Cybersecurity Careers
+## 🔗 Additional Resources
 
-| Term                    | Definition                                                                 |
-|-------------------------|----------------------------------------------------------------------------|
-| Penetration Tester      | Security specialist who simulates attacks to find vulnerabilities.         |
-| Security Analyst        | Monitors systems for threats and investigates incidents.                   |
-| Security Architect      | Designs secure systems and networks.                                       |
-| Compliance Specialist   | Ensures policies align with
+- [ISC² CISSP Overview](https://www.isc2.org/certifications/cissp)
+- [History of Cybersecurity – NIST Timeline](https://www.nist.gov)
+- [Cybersecurity Glossary – Google Certificate](https://coursera.org)
+
