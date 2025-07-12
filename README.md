@@ -57,7 +57,7 @@ This project is shared under the [Creative Commons Attribution 4.0 International
 
 ## 🔗 Course Syllabus
 
-Explore it[here:](https://github.com/CJA-Cyberhack24/Google-Cybersecurity-Training-Portfolio/blob/86f9609c2b4326ea4ac4184cba792d095ec269c2/Course-Syllabus.md).
+Explore it [here:](https://github.com/CJA-Cyberhack24/Google-Cybersecurity-Training-Portfolio/blob/86f9609c2b4326ea4ac4184cba792d095ec269c2/Course-Syllabus.md).
 
 ---
 
