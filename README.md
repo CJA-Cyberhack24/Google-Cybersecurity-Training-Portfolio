@@ -55,9 +55,9 @@ This project is shared under the [Creative Commons Attribution 4.0 International
 
 ---
 
-## 🔗 Course Link
+## 🔗 Course Syllabus
 
-Explore the full certificate on [Coursera](https://www.coursera.org/professional-certificates/google-cybersecurity).
+Explore the [Syllabus](https://www.coursera.org/professional-certificates/google-cybersecurity).
 
 ---
 
