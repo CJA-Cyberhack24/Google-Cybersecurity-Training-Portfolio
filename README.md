@@ -26,13 +26,13 @@ The Google Cybersecurity Certificate is an 8-course program that covers:
 Each folder in this repository corresponds to a course module or portfolio activity:
 | Module | Title | Description | Link |
 |--------|-------|-------------|------|
-| 1 | Foundations of Cybersecurity | Introduction to cybersecurity fundamentals, roles, tools, and ethical practices. Covers threat evolution, basic frameworks (like CIA triad and NIST), and entry-level analyst skills. | [📂 View Project](./Module-Projects/Module1-Foundations-Cybersecurity) |
-| 2 | Play It Safe | Learn to manage security risks and conduct audits effectively. | [📂 View Project](./Module-Projects/Module2-Play-It-Safe) |
-| 3 | Connect and Protect | Dive into network security and hardening techniques. | [📂 View Project](./Module-Projects/Module3-Connect-Protect) |
-| 4 | Tools of the Trade | Use Linux and SQL for cybersecurity tasks and data analysis. | [📂 View Project](./Module-Projects/Module4-Tools-of-the-Trade) |
-| 5 | Assets, Threats, and Vulnerabilities | Perform vulnerability analysis and assess risk impact across systems. | [📂 View Project](./Module-Projects/Module5-Assets-Threats-Vulnerabilities) |
-| 6 | Sound the Alarm | Focus on incident detection, alerting, and response strategies. | [📂 View Project](./Module-Projects/Module6-Sound-the-Alarm) |
-| 7 | Automate Cybersecurity Tasks | Apply Python scripting to automate security operations. | [📂 View Project](./Module-Projects/Module7-Automate-Cybersecurity-Tasks) |
+| 1 | Foundations of Cybersecurity | Introduction to cybersecurity fundamentals, roles, tools, and ethical practices. Covers threat evolution, basic frameworks (like CIA triad and NIST), and entry-level analyst skills. | [📂 View Project](./Course 1-Projects/Foundations-Cybersecurity) |
+| 2 | Play It Safe | Learn to manage security risks and conduct audits effectively. | [📂 View Project](./Course 2-Projects/Play-It-Safe) |
+| 3 | Connect and Protect | Dive into network security and hardening techniques. | [📂 View Project](./Course 3-Projects/Connect-Protect) |
+| 4 | Tools of the Trade | Use Linux and SQL for cybersecurity tasks and data analysis. | [📂 View Project](./Course 4-Projects/Tools-of-the-Trade) |
+| 5 | Assets, Threats, and Vulnerabilities | Perform vulnerability analysis and assess risk impact across systems. | [📂 View Project](./Course 5-Projects/Assets-Threats-Vulnerabilities) |
+| 6 | Sound the Alarm | Focus on incident detection, alerting, and response strategies. | [📂 View Project](./Course 6-Projects/Sound-the-Alarm) |
+| 7 | Automate Cybersecurity Tasks | Apply Python scripting to automate security operations. | [📂 View Project](./Course 7-Projects/Automate-Cybersecurity-Tasks) |
 
 
 ---
