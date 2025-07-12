@@ -5,7 +5,7 @@
 <h2>📘 Module 1: Foundations of Cybersecurity</h2>
 
 
-Welcome to the first module in your cybersecurity journey! This module introduces essential concepts, frameworks, and roles in the cybersecurity world. I'll explore the evolution of digital threats and the ethical practices used to combat them. Topics include:
+Welcome to the first module in my cybersecurity journey! This module introduces essential concepts, frameworks, and roles in the cybersecurity world. I'll explore the evolution of digital threats and the ethical practices used to combat them. Topics include:
 
 - Introduction to cybersecurity principles and terminology
 - Understanding the CIA triad and NIST cybersecurity framework
@@ -13,7 +13,7 @@ Welcome to the first module in your cybersecurity journey! This module introduce
 - Threat types and how they’ve evolved over time
 - Entry-level skills for analysts, including basic threat detection
 
-Goal: Build a strong conceptual foundation in cybersecurity. I can understand the key principles, roles, ethics, and frameworks that guide modern cybersecurity practices.
+Goal: Building a strong conceptual foundation in cybersecurity to understand the key principles, roles, ethics, and frameworks that guide modern cybersecurity practices.
 
 ---
 
@@ -27,7 +27,7 @@ This module is all about assessing, managing, and auditing cybersecurity risks. 
 - Types of threats and their business impact
 - Creating mitigation strategies and response plans
 
-Goal: Equip me with the ability to identify risks, evaluate threats, and implement audit procedures to safeguard systems and data. This module emphasizes my critical thinking in security decision-making.
+Goal: Equiping me with the ability to identify risks, evaluate threats, and implement audit procedures to safeguard systems and data. This module emphasizes my critical thinking in security decision-making.
 
 ---
 
@@ -63,7 +63,7 @@ Goal: Provide me hands-on experience with technical tools like Linux and SQL tha
 <h2>🕵️ Module 5: Assets, Threats, and Vulnerabilities</h2>
 
 
-Understanding what you're protecting—and what it's vulnerable to—is key. This module dives deep into risk and asset management with practical security analysis skills. Topics include:
+Understanding what I'm protecting—and what it's vulnerable to—is key. This module dives deep into risk and asset management with practical security analysis skills. Topics include:
 
 - Identifying and categorizing organizational assets
 - Threat modeling and adversary simulation
@@ -94,7 +94,7 @@ Goal: Empowering me to detect, investigate, and respond to security incidents. T
 <h2>🤖 Module 7: Automate Cybersecurity Tasks</h2>
 
 
-Become more efficient and effective by automating routine cybersecurity operations using Python. You'll build scripts that:
+Become more efficient and effective by automating routine cybersecurity operations using Python. I'll be building scripts that:
 
 - Parse and analyze log files
 - Connect to APIs for threat intelligence
