@@ -1,6 +1,5 @@
 <p align="center"><img src="Assets/Google_logo.png" alt="Google Course Logo" width="100"/></p>
 
-
 ---
 
 # 🛡️ Google Cybersecurity Training Portfolio
@@ -26,15 +25,15 @@ The Google Cybersecurity Certificate is an 8-course program that covers:
 
 Each folder in this repository corresponds to a course module or portfolio activity:
 
-| Folder | Description |
-|--------|-------------|
-| `Foundations of Cybersecurity` | Introduction to cybersecurity fundamentals, roles, tools, and ethical practices. Covers threat evolution, basic frameworks (like CIA triad and NIST), and entry-level analyst skills. |
-| `Play It Safe` | Manage security risks and conduct audits |
-| `Connect and Protect` | Network security and hardening techniques |
-| `Tools of the Trade` | Linux and SQL for cybersecurity |
-| `Assets, Threats, and Vulnerabilities` | Vulnerability analysis and risk assessment |
-| `Sound the Alarm` | Incident detection and response |
-| `Automate Cybersecurity Tasks` | Python scripting for security automation |
+| Module | Title                           | Link |
+|--------|----------------------------------|------|
+| 1 | Foundations of Cybersecurity | [📂 View Project](./Module-Projects/Module1-Foundations-Cybersecurity) |
+| 2 | Play It Safe | [📂 View Project](./Module-Projects/Module2-Play-It-Safe) |
+| 3 | Connect and Protect | [📂 View Project](./Module-Projects/Module3-Connect-Protect) |
+| 4 | Tools of the Trade | [📂 View Project](./Module-Projects/Module4-Tools-of-the-Trade) |
+| 5 | Assets, Threats, and Vulnerabilities | [📂 View Project](./Module-Projects/Module5-Assets-Threats-Vulnerabilities) |
+| 6 | Sound the Alarm | [📂 View Project](./Module-Projects/Module6-Sound-the-Alarm) |
+| 7 | Automate Cybersecurity Tasks | [📂 View Project](./Module-Projects/Module7-Automate-Cybersecurity-Tasks) |
 
 ---
 
@@ -71,7 +70,6 @@ I'm passionate about cybersecurity and committed to building a safer digital wor
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Bluesky" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg" />][Bluesky]
-
 
 [twitter]: https://twitter.com/AvalerionP
 [youtube]: https://www.youtube.com/@SAM7167
