@@ -37,7 +37,7 @@ These terms were introduced through **Module 1: Foundations of Cybersecurity** i
 
 ---
 
-# 🧩 Foundations of Cybersecurity – Module 2
+# 🧩 Module 2: Foundations of Cybersecurity
 
 ## 🕰️ A Brief History of Cybersecurity
 
