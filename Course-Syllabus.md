@@ -2,7 +2,6 @@
 
 
 <h1><p align='center'>📚 Google Cybersecurity Curriculum</></h1>
----
 
 <h2>📘 Module 1: Foundations of Cybersecurity</h2>
 
