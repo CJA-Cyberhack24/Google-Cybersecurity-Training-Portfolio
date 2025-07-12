@@ -56,17 +56,9 @@ This project is shared under the [Creative Commons Attribution 4.0 International
 ---
 
 ## 🔗 Course Syllabus
->>>>>>> 3501670ab53da16ad5bc153b3576471764cd5e50
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-Explore it [here]. (https://github.com/CJA-Cyberhack24/Google-Cybersecurity-Training-Portfolio/blob/3501670ab53da16ad5bc153b3576471764cd5e50/Course-Syllabus.md).
-=======
-Explore the [Syllabus](https://www.coursera.org/professional-certificates/google-cybersecurity).
->>>>>>> 3501670ab53da16ad5bc153b3576471764cd5e50
-=======
-Explore it [here:](https://github.com/CJA-Cyberhack24/Google-Cybersecurity-Training-Portfolio/blob/86f9609c2b4326ea4ac4184cba792d095ec269c2/Course-Syllabus.md).
->>>>>>> c740756db233b7cdf29408d67742023f6971f5ae
+Explore it [here:](https://github.com/CJA-Cyberhack24/Google-Cybersecurity-Training-Portfolio/blob/86f9609c2b4326ea4ac4184cba792d095ec269c2/Course-Syllabus.md)
+
 
 ---
 
