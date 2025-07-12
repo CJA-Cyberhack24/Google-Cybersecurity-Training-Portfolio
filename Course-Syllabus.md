@@ -2,8 +2,8 @@
 
 ---
 
-📘 Module 1: Foundations of Cybersecurity
-# Foundations of Cybersecurity
+<h2>📘 Module 1: Foundations of Cybersecurity</h2>
+
 
 Welcome to the first module in your cybersecurity journey! This module introduces essential concepts, frameworks, and roles in the cybersecurity world. I'll explore the evolution of digital threats and the ethical practices used to combat them. Topics include:
 
@@ -17,8 +17,8 @@ Goal: Build a strong conceptual foundation in cybersecurity. I can understand th
 
 ---
 
-🔐 Module 2: Play It Safe
-# Play It Safe
+<h2>🔐 Module 2: Play It Safe</h2>
+
 
 This module is all about assessing, managing, and auditing cybersecurity risks. I’ll develop the skills to identify vulnerabilities in systems and implement risk mitigation strategies. Topics include:
 
@@ -31,8 +31,8 @@ Goal: Equip me with the ability to identify risks, evaluate threats, and impleme
 
 ---
 
-🌐 Module 3: Connect and Protect
-# Connect and Protect
+<h2>🌐 Module 3: Connect and Protect</h2>
+
 
 Dive into the world of network security! This module explores how to secure digital environments by applying best practices in network design and hardening techniques. Topics include:
 
@@ -46,8 +46,8 @@ Goal: Teaching me the core techniques for securing network infrastructure allowi
 
 ---
 
-🛠️ Module 4: Tools of the Trade
-# Tools of the Trade
+<h2>🛠️ Module 4: Tools of the Trade</h2>
+
 
 Cybersecurity professionals rely heavily on command-line tools, data queries, and operating systems to analyze security incidents. In this module, I’ll be learning:
 
@@ -60,8 +60,8 @@ Goal: Provide me hands-on experience with technical tools like Linux and SQL tha
 
 ---
 
-🕵️ Module 5: Assets, Threats, and Vulnerabilities
-# Assets, Threats, and Vulnerabilities
+<h2>🕵️ Module 5: Assets, Threats, and Vulnerabilities</h2>
+
 
 Understanding what you're protecting—and what it's vulnerable to—is key. This module dives deep into risk and asset management with practical security analysis skills. Topics include:
 
@@ -75,8 +75,8 @@ Goal: Enabling me to perform effective vulnerability assessments and threat anal
 ---
 
 
-🚨 Module 6: Sound the Alarm
-# Sound the Alarm
+<h2>🚨 Module 6: Sound the Alarm</h2>
+
 
 Incident detection and response is a crucial part of any cybersecurity operation. This module covers how to spot trouble early and respond effectively. Topics include:
 
@@ -91,8 +91,8 @@ Goal: Empowering me to detect, investigate, and respond to security incidents. T
 ---
 
 
-🤖 Module 7: Automate Cybersecurity Tasks
-# Automate Cybersecurity Tasks
+<h2>🤖 Module 7: Automate Cybersecurity Tasks</h2>
+
 
 Become more efficient and effective by automating routine cybersecurity operations using Python. You'll build scripts that:
 
