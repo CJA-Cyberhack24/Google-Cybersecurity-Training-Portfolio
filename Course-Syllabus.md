@@ -1,5 +1,7 @@
 <p align="center"><img src="Assets/Google_logo.png" alt="Google Course Logo" width="100"/></p>
 
+
+<h1><p align='center'>📚 Google Cybersecurity Curriculum</></h1>
 ---
 
 <h2>📘 Module 1: Foundations of Cybersecurity</h2>
