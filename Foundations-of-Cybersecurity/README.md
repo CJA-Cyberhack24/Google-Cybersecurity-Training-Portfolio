@@ -29,7 +29,7 @@
 These visuals highlight important terms and frameworks I want to keep top of mind.
 
 ### 🔐 The CIA Triad
-![CIA Triad Diagram](./images/CIA Triad.png)
+![CIA Triad Diagram](./Assets/CIA Triad.png)
 
 ### 🔍 Threat vs. Vulnerability
 ![Threat vs. Vulnerability](./Assets/threat_vs_vulnerability.png)
