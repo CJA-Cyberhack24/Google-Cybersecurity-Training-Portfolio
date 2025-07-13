@@ -123,6 +123,54 @@ Each word represents:
 8. Software Development Security
 
 
+# 📘 Cybersecurity Glossary – Module 2
+
+This glossary covers essential terms from Module 2 of the Foundations of Cybersecurity course. Each definition is simplified to help you quickly grasp and retain core concepts.
+
+---
+
+## 🔐 Key Terms
+
+| Term | Definition |
+|------|------------|
+| **Adware** | Software that shows unwanted ads based on your browsing. Can slow down your device. |
+| **APT (Advanced Persistent Threat)** | A long-term, stealthy cyberattack that stays hidden while stealing data. |
+| **Antivirus** | Software that detects and removes viruses and malware. |
+| **Attack Vector** | The method or path a hacker uses to break into a system. |
+| **Authentication** | Verifying someone’s identity before giving access. |
+| **Botnet** | A group of infected computers controlled remotely by hackers. |
+| **Bug** | A flaw in software or hardware that can cause errors or security issues. |
+| **Business Continuity Plan (BCP)** | A backup plan to keep operations running during a cyberattack or disaster. |
+| **Click Fraud** | Fake clicks on ads to make money dishonestly. |
+| **Cloud Computing** | Using internet-based services for storage, servers, and tools. |
+| **Cryptography** | Securing data by turning it into unreadable code. |
+| **Cyberattack** | An attempt to damage or steal data from a system. |
+| **Cyber Espionage** | Spying on organizations or governments using hacking. |
+| **Dark Web** | A hidden part of the internet often used for illegal activity. |
+| **Decryption** | Turning encrypted data back into readable form. |
+| **Defense-in-Depth** | Using multiple layers of security to protect systems. |
+| **Detection Deficit** | The time gap between when an attack happens and when it’s discovered. |
+| **DDoS Attack** | Overloading a system with traffic to shut it down. |
+| **Domain** | A group of computers that share settings and access rules. |
+| **Encryption** | Turning data into code to keep it private. |
+| **Endpoint** | Any device (like a phone or laptop) connected to a network. |
+| **EDR (Endpoint Detection & Response)** | Tools that monitor and respond to threats on devices. |
+| **Ethical Hacking** | Authorized hacking to find and fix security flaws. |
+| **Evil Twin** | A fake Wi-Fi network that tricks users into connecting so data can be stolen. |
+| **Firewall** | A security barrier that blocks unwanted network traffic. |
+| **FTP (File Transfer Protocol)** | Rules for safely sending files over a network. |
+| **Gateway** | A device that connects different networks and translates data between them. |
+| **Guessing Entropy** | A measure of how hard it is to guess a password. |
+| **Hacker** | Someone who tries to access systems without permission. |
+| **Identity Theft** | Stealing personal info to commit fraud. |
+| **InfoSec (Information Security)** | Protecting sensitive data from unauthorized access. |
+| **IoT (Internet of Things)** | Devices that connect and share data without human help (e.g., smart thermostats). |
+| **IDS (Intrusion Detection System)** | A tool that watches for suspicious activity in a network. |
+| **IP Address** | A unique number that identifies a device on the internet. |
+| **IP Packet** | A small bundle of data sent across a network. |
+| **IP Spoofing** | Faking an IP address to hide the sender’s identity. |
+| **Malware** | Malicious software designed to harm or steal data. |
+
 ## 🔗 Additional Resources
 
 - [ISC² CISSP Overview](https://www.isc2.org/certifications/cissp)
