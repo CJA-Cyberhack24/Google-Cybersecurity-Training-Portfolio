@@ -29,19 +29,20 @@
 These visuals highlight important terms and frameworks I want to keep top of mind.
 
 ### 🔐 The CIA Triad
-![CIA Triad Diagram](../Assets/CIA Triad.png)
+![CIA Triad Diagram](../Assets/CIA_Triad.png)
 
 ### 🔍 Threat vs. Vulnerability
 ![Threat](../Assets/threat_vs_vulnerability.png)
 
 ### 🛡️ NIST Cybersecurity Framework
-![NIST Framework Overview](../Assets/NIST Cybersecurity Framework 2.0.png)
+![NIST Framework Overview](../Assets/NIST_Cybersecurity_Framework_2.0.png)
 
 ### 🆔 Identification
-![PII & SPII](../Assets/PII vs SPII Differences.png)
+![PII & SPII](../Assets/PII_vs_SPII_Differences.png)
 
-### Security Controls vs Frameworks
-![Controls & Frameworks](../Assets/Security Controls vs Frameworks.png)
+### 🧱 Security Controls vs Frameworks
+![Controls & Frameworks](../Assets/Security_Controls_vs_Frameworks.png)
+
 
 ---
 
