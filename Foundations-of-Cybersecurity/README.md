@@ -28,20 +28,21 @@
 ## 🧷 Visual Study Pins
 These visuals highlight important terms and frameworks I want to keep top of mind.
 
-### 🔐 The CIA Triad
-![CIA Triad Diagram](https://github.com/CJA-Cyberhack24/Google-Cybersecurity-Training-Portfolio/blob/920ba2c834ebe3a508a2446b60204f0fc7ebc60f/Assets/CIA%20Triad.png)
+### 🔐 The CIA Triad  
+<img src="https://github.com/CJA-Cyberhack24/Google-Cybersecurity-Training-Portfolio/blob/main/Assets/CIA_Triad.png?raw=true" width="400"/>
 
-### 🔍 Threat vs. Vulnerability
-![Threat](https://github.com/CJA-Cyberhack24/Google-Cybersecurity-Training-Portfolio/blob/ae7d846f930e3800c162de081e02d3dd7be216ae/Assets/Threats_Vulnerabilities_Risks.png)
+### 🔍 Threat vs. Vulnerability  
+<img src="https://github.com/CJA-Cyberhack24/Google-Cybersecurity-Training-Portfolio/blob/main/Assets/Threats_Vulnerabilities_Risks.png?raw=true" width="400"/>
 
-### 🛡️ NIST Cybersecurity Framework
-![NIST Framework Overview](https://github.com/CJA-Cyberhack24/Google-Cybersecurity-Training-Portfolio/blob/920ba2c834ebe3a508a2446b60204f0fc7ebc60f/Assets/NIST%20Cybersecurity%20Framework%202.0.png)
+### 🛡️ NIST Cybersecurity Framework  
+<img src="https://github.com/CJA-Cyberhack24/Google-Cybersecurity-Training-Portfolio/blob/main/Assets/NIST_Cybersecurity_Framework_2.0.png?raw=true" width="400"/>
 
-### 🆔 Identification
-![PII & SPII](https://github.com/CJA-Cyberhack24/Google-Cybersecurity-Training-Portfolio/blob/920ba2c834ebe3a508a2446b60204f0fc7ebc60f/Assets/PII%20vs%20SPII%20Differences.png)
+### 🆔 Identification  
+<img src="https://github.com/CJA-Cyberhack24/Google-Cybersecurity-Training-Portfolio/blob/main/Assets/PII_vs_SPII_Differences.png?raw=true" width="400"/>
 
-### 🧱 Security Controls vs Frameworks
-![Controls & Frameworks](https://github.com/CJA-Cyberhack24/Google-Cybersecurity-Training-Portfolio/blob/920ba2c834ebe3a508a2446b60204f0fc7ebc60f/Assets/Security%20Controls%20vs%20Frameworks.png)
+### 🧱 Security Controls vs Frameworks  
+<img src="https://github.com/CJA-Cyberhack24/Google-Cybersecurity-Training-Portfolio/blob/main/Assets/Security_Controls_vs_Frameworks.png?raw=true" width="400"/>
+
 
 
 ---
