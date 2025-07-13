@@ -32,7 +32,7 @@ These visuals highlight important terms and frameworks I want to keep top of min
 ![CIA Triad Diagram](https://github.com/CJA-Cyberhack24/Google-Cybersecurity-Training-Portfolio/blob/920ba2c834ebe3a508a2446b60204f0fc7ebc60f/Assets/CIA%20Triad.png)
 
 ### 🔍 Threat vs. Vulnerability
-![Threat](../Assets/threat_vs_vulnerability.png)
+![Threat](https://github.com/CJA-Cyberhack24/Google-Cybersecurity-Training-Portfolio/blob/ae7d846f930e3800c162de081e02d3dd7be216ae/Assets/Threats_Vulnerabilities_Risks.png)
 
 ### 🛡️ NIST Cybersecurity Framework
 ![NIST Framework Overview](https://github.com/CJA-Cyberhack24/Google-Cybersecurity-Training-Portfolio/blob/920ba2c834ebe3a508a2446b60204f0fc7ebc60f/Assets/NIST%20Cybersecurity%20Framework%202.0.png)
