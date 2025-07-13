@@ -43,9 +43,6 @@ These visuals highlight important terms and frameworks I want to keep top of min
 ### 🧱 Security Controls vs Frameworks  
 <img src="https://github.com/CJA-Cyberhack24/Google-Cybersecurity-Training-Portfolio/blob/3c8b1e28e6ea67d14acab752f0a3fd9ed8ed08e8/Assets/Security%20Controls%20vs%20Frameworks.png" width="300"/>
 
-
-
-
 ---
 
 ## 📎 Quick Tip
@@ -99,6 +96,11 @@ These domains represent the foundational knowledge areas for professional cybers
 Understanding the historical evolution of cybersecurity gave me context for today’s threats and defenses. The CISSP domains introduced a powerful structure for thinking about security holistically—not just in terms of tools and technology, but strategy, operations, and ethics.
 
 ---
+
+## 🧷 Visual Study Pins
+
+### 🧱 8 CISSP Domains  
+<img src="https://github.com/CJA-Cyberhack24/Google-Cybersecurity-Training-Portfolio/blob/3c8b1e28e6ea67d14acab752f0a3fd9ed8ed08e8/Assets/Security%20Controls%20vs%20Frameworks.png" width="300"/>
 
 ## 🔗 Additional Resources
 
