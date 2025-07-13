@@ -197,3 +197,23 @@ Each word represents:
 - [History of Cybersecurity – NIST Timeline](https://www.nist.gov)
 - [Cybersecurity Glossary – Google Certificate](https://coursera.org)
 
+---
+
+# 🧰 Module 3: Frameworks and Controls
+
+## 🔐 Key Concepts
+
+| 🔤 Term                  | 📖 Definition |
+|-------------------------|---------------|
+| **Security Framework**  | A structured guideline that helps organizations manage cybersecurity risks. Examples include NIST and ISO 27001. |
+| **Security Control**    | A protective measure used to avoid, detect, or minimize security risks. Types include preventive, detective, and corrective. |
+| **CIA Triad**           | Stands for Confidentiality (protecting data), Integrity (ensuring accuracy), and Availability (ensuring reliable access). |
+| **Ethics in Cybersecurity** | Moral principles guiding professional behavior, like honesty, respect for privacy, and accountability. |
+| **HIPAA** | Health Insurance Portability and Accountability Act, U.S. law that protects personal health information. It sets rules for how medical data must be stored, shared, and protected—especially in digital formats. |
+| **PCI-DSS** | Payment Card Industry Data Security Standard. Global set of security rules created by major credit card companies (like Visa, MasterCard, and American Express) to protect cardholder data and reduce fraud |
+
+---
+
+## 🧷 Visual Study Pins
+
+
