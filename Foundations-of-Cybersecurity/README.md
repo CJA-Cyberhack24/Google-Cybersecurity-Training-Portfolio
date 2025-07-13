@@ -103,7 +103,25 @@ Understanding the historical evolution of cybersecurity gave me context for toda
 <img src="https://github.com/CJA-Cyberhack24/Google-Cybersecurity-Training-Portfolio/blob/b8601e5c9da3ddeed3935111b3e3add91917a38f/Assets/8%20Domains%20of%20CISSP.png" width="300"/>
 
 🔁 Quick Mnemonic:
-“A Skater Always Can Ice Skate Smoothly, Silently.” Each first letter corresponds to the domains in order!
+“Silly Astronauts Always Communicate In Space Shuttle Simulators.” 
+Each word represents:
+
+1. Security and Risk Management
+
+2. Asset Security
+
+3. Architecture & Engineering
+
+4. Communication & Network Security
+
+5. Identity & Access Management
+
+6. Security Assessment & Testing
+
+7. Security Operations
+
+8. Software Development Security
+
 
 ## 🔗 Additional Resources
 
