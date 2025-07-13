@@ -25,6 +25,25 @@
 
 ---
 
+## 🧷 Visual Study Pins
+
+## 💡 Visual Notes to Remember
+
+These visuals highlight important terms and frameworks I want to keep top of mind.
+
+### 🔐 The CIA Triad
+![CIA Triad Diagram](./images/CIA Triad.png)
+
+### 🔍 Threat vs. Vulnerability
+![Threat vs. Vulnerability](./Assets/threat_vs_vulnerability.png)
+
+### 🛡️ NIST Cybersecurity Framework
+![NIST Framework Overview](./Assets/NIST Cybersecurity Framework 2.0.png)
+
+
+
+---
+
 ## 📎 Quick Tip
 
 > “Knowing the language is the first step to thinking like a security analyst. Words shape how we interpret threats, build defenses, and communicate clearly across teams.”
