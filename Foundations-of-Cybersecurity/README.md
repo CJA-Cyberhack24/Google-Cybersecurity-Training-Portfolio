@@ -100,7 +100,7 @@ Understanding the historical evolution of cybersecurity gave me context for toda
 ## 🧷 Visual Study Pins
 
 ### 🧱 8 CISSP Domains  
-<img src="https://github.com/CJA-Cyberhack24/Google-Cybersecurity-Training-Portfolio/blob/3c8b1e28e6ea67d14acab752f0a3fd9ed8ed08e8/Assets/Security%20Controls%20vs%20Frameworks.png" width="300"/>
+<img src="https://github.com/CJA-Cyberhack24/Google-Cybersecurity-Training-Portfolio/blob/b8601e5c9da3ddeed3935111b3e3add91917a38f/Assets/8%20Domains%20of%20CISSP.png" width="300"/>
 
 ## 🔗 Additional Resources
 
