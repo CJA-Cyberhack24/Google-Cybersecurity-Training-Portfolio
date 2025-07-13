@@ -29,19 +29,19 @@
 These visuals highlight important terms and frameworks I want to keep top of mind.
 
 ### 🔐 The CIA Triad  
-<img src="https://github.com/CJA-Cyberhack24/Google-Cybersecurity-Training-Portfolio/blob/main/Assets/CIA_Triad.png?raw=true" width="400"/>
+<img src="https://github.com/CJA-Cyberhack24/Google-Cybersecurity-Training-Portfolio/Assets/CIA_Triad.png?raw=true" width="400"/>
 
 ### 🔍 Threat vs. Vulnerability  
-<img src="https://github.com/CJA-Cyberhack24/Google-Cybersecurity-Training-Portfolio/blob/main/Assets/Threats_Vulnerabilities_Risks.png?raw=true" width="400"/>
+<img src="https://github.com/CJA-Cyberhack24/Google-Cybersecurity-Training-Portfolio/Assets/Threats_Vulnerabilities_Risks.png?raw=true" width="400"/>
 
 ### 🛡️ NIST Cybersecurity Framework  
-<img src="https://github.com/CJA-Cyberhack24/Google-Cybersecurity-Training-Portfolio/blob/main/Assets/NIST_Cybersecurity_Framework_2.0.png?raw=true" width="400"/>
+<img src="https://github.com/CJA-Cyberhack24/Google-Cybersecurity-Training-Portfolio/Assets/NIST_Cybersecurity_Framework_2.0.png?raw=true" width="400"/>
 
 ### 🆔 Identification  
-<img src="https://github.com/CJA-Cyberhack24/Google-Cybersecurity-Training-Portfolio/blob/main/Assets/PII_vs_SPII_Differences.png?raw=true" width="400"/>
+<img src="https://github.com/CJA-Cyberhack24/Google-Cybersecurity-Training-Portfolio/Assets/PII_vs_SPII_Differences.png?raw=true" width="400"/>
 
 ### 🧱 Security Controls vs Frameworks  
-<img src="https://github.com/CJA-Cyberhack24/Google-Cybersecurity-Training-Portfolio/blob/main/Assets/Security_Controls_vs_Frameworks.png?raw=true" width="400"/>
+<img src="https://github.com/CJA-Cyberhack24/Google-Cybersecurity-Training-Portfolio/Assets/Security_Controls_vs_Frameworks.png?raw=true" width="400"/>
 
 
 
