@@ -216,4 +216,14 @@ Each word represents:
 
 ## 🧷 Visual Study Pins
 
+### 🔐 Security Controls vs Frameworks 
+<img src="https://github.com/CJA-Cyberhack24/Google-Cybersecurity-Training-Portfolio/blob/a5423545027c0d8755c33dc9d735236955611295/Assets/Security%20Controls%20vs%20Frameworks.png" width="300"/> 
 
+### 🔺 CIA Triad 
+<img src="https://github.com/CJA-Cyberhack24/Google-Cybersecurity-Training-Portfolio/blob/a5423545027c0d8755c33dc9d735236955611295/Assets/CIA%20Triad.png" width="300"/> 
+
+
+## ✍️ Suggested Activities  
+- Build a comparison table of different cybersecurity frameworks  
+- Identify controls in your personal or work environment  
+- Reflect on ethical dilemmas and how you'd respond as a professional
