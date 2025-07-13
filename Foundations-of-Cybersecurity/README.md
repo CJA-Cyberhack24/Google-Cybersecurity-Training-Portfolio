@@ -118,7 +118,7 @@ Understanding the historical evolution of cybersecurity gave me context for toda
 <img src="https://github.com/CJA-Cyberhack24/Google-Cybersecurity-Training-Portfolio/blob/489f5fbc2d006b28f85cdb6b2db3efc4850508a1/Assets/IP%20Address.png" width="300"/>
 
 ### 🕵 IP Spoofing  
-<img src="https://github.com/CJA-Cyberhack24/Google-Cybersecurity-Training-Portfolio/blob/489f5fbc2d006b28f85cdb6b2db3efc4850508a1/Assets/IP%20Spoofing.png" width="300"/>
+<img src="https://github.com/CJA-Cyberhack24/Google-Cybersecurity-Training-Portfolio/blob/489f5fbc2d006b28f85cdb6b2db3efc4850508a1/Assets/IP%20Spoofing.png" width="500"/>
 
 ### 📦 IP Packet  
 <img src="https://github.com/CJA-Cyberhack24/Google-Cybersecurity-Training-Portfolio/blob/489f5fbc2d006b28f85cdb6b2db3efc4850508a1/Assets/IP%20Packet.png" width="300"/>
