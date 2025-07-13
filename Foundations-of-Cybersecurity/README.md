@@ -99,6 +99,30 @@ Understanding the historical evolution of cybersecurity gave me context for toda
 
 ## 🧷 Visual Study Pins
 
+### 🤖 Botnet  
+<img src="https://github.com/CJA-Cyberhack24/Google-Cybersecurity-Training-Portfolio/blob/3c8b1e28e6ea67d14acab752f0a3fd9ed8ed08e8/Assets/Botnet.png" width="300"/> 
+
+### 🔒 Encryption  
+<img src="https://raw.githubusercontent.com/CJA-Cyberhack24/Google-Cybersecurity-Training-Portfolio/main/Assets/Encryption.png" width="300"/>
+
+### 🔑 Decryption 
+<img src="https://github.com/CJA-Cyberhack24/Google-Cybersecurity-Training-Portfolio/blob/3c8b1e28e6ea67d14acab752f0a3fd9ed8ed08e8/Assets/Decryption.png" width="300"/> 
+
+### 🌐 Network Devices  
+<img src="https://github.com/CJA-Cyberhack24/Google-Cybersecurity-Training-Portfolio/blob/3c8b1e28e6ea67d14acab752f0a3fd9ed8ed08e8/Assets/Network Devices.png" width="300"/>
+
+### ☠️ Malware vs Virus  
+<img src="https://github.com/CJA-Cyberhack24/Google-Cybersecurity-Training-Portfolio/blob/3c8b1e28e6ea67d14acab752f0a3fd9ed8ed08e8/Assets/Malware vs Virus.png" width="300"/>
+
+### ɪᴘ IP Address  
+<img src="https://github.com/CJA-Cyberhack24/Google-Cybersecurity-Training-Portfolio/blob/3c8b1e28e6ea67d14acab752f0a3fd9ed8ed08e8/Assets/IP Address.png" width="300"/>
+
+### 🕵 IP Spoofing  
+<img src="https://github.com/CJA-Cyberhack24/Google-Cybersecurity-Training-Portfolio/blob/3c8b1e28e6ea67d14acab752f0a3fd9ed8ed08e8/Assets/IP Spoofing.png" width="300"/>
+
+### 📦 IP Packet  
+<img src="https://github.com/CJA-Cyberhack24/Google-Cybersecurity-Training-Portfolio/blob/3c8b1e28e6ea67d14acab752f0a3fd9ed8ed08e8/Assets/IP Packet.png" width="300"/>
+
 ### 🧱 8 CISSP Domains  
 <img src="https://github.com/CJA-Cyberhack24/Google-Cybersecurity-Training-Portfolio/blob/b8601e5c9da3ddeed3935111b3e3add91917a38f/Assets/8%20Domains%20of%20CISSP.png" width="300"/>
 
@@ -122,10 +146,6 @@ Each word represents:
 
 8. Software Development Security
 
-
-# 📘 Cybersecurity Glossary – Module 2
-
-This glossary covers essential terms from Module 2 of the Foundations of Cybersecurity course. Each definition is simplified to help you quickly grasp and retain core concepts.
 
 ---
 
