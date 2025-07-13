@@ -26,9 +26,6 @@
 ---
 
 ## 🧷 Visual Study Pins
-
-## 💡 Visual Notes to Remember
-
 These visuals highlight important terms and frameworks I want to keep top of mind.
 
 ### 🔐 The CIA Triad
