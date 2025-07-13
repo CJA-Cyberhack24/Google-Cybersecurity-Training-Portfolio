@@ -102,6 +102,9 @@ Understanding the historical evolution of cybersecurity gave me context for toda
 ### 🧱 8 CISSP Domains  
 <img src="https://github.com/CJA-Cyberhack24/Google-Cybersecurity-Training-Portfolio/blob/b8601e5c9da3ddeed3935111b3e3add91917a38f/Assets/8%20Domains%20of%20CISSP.png" width="300"/>
 
+🔁 Quick Mnemonic:
+“A Skater Always Can Ice Skate Smoothly, Silently.” Each first letter corresponds to the domains in order!
+
 ## 🔗 Additional Resources
 
 - [ISC² CISSP Overview](https://www.isc2.org/certifications/cissp)
