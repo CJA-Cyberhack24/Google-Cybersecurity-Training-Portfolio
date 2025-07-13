@@ -28,9 +28,6 @@
 ## 🧷 Visual Study Pins
 These visuals highlight important terms and frameworks I want to keep top of mind.
 
-## 🧷 Visual Study Pins
-These visuals highlight important terms and frameworks I want to keep top of mind.
-
 ### 🔐 The CIA Triad  
 <img src="https://github.com/CJA-Cyberhack24/Google-Cybersecurity-Training-Portfolio/blob/3c8b1e28e6ea67d14acab752f0a3fd9ed8ed08e8/Assets/CIA%20Triad.png" width="200"/>
 
