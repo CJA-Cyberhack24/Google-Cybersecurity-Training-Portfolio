@@ -255,8 +255,9 @@ Alignment of these frameworks with organizational needs:
 
 ---
 
-🧠 Module 4: Cybersecurity Tools & Programming Basics
-🔧 1. Common Cybersecurity Tools
+# 🧠 Module 4: Cybersecurity Tools & Programming Basics
+
+  🔧 1. Common Cybersecurity Tools
 You’ll learn about tools that help analysts monitor, detect, and respond to threats:
 
 SIEM (Security Information and Event Management) Combines real-time monitoring with log analysis to detect suspicious activity.
@@ -267,7 +268,7 @@ Endpoint Detection Tools Monitor devices for malware, unauthorized access, or po
 
 Vulnerability Scanners Scan systems for known weaknesses (e.g., outdated software, misconfigurations).
 
-💻 2. Programming Languages for Analysts
+  💻 2. Programming Languages for Analysts
 You’ll be introduced to basic scripting and query languages used in cybersecurity:
 
 Linux Command Line Essential for navigating systems, running scripts, and managing files securely.
