@@ -263,4 +263,4 @@ Use of this reference in:
 - Team onboarding documents
 - GitHub projects or GRC dashboards
 
-Want to enrich this with visuals, badges, or [interactive flashcards](https://github.com/CJA-Cyberhack24/Google-Cybersecurity-Training-Portfolio/blob/4b9a1b26a00f66b59bcef1901cb1a9b7cde3161f/Foundations-of-Cybersecurity/Interactive%20Flashcards.md)? Let’s build your cybersecurity toolkit into something unforgettable! 🚀📘✨
+Want to enrich this with visuals, badges, or [interactive flashcards](https://github.com/CJA-Cyberhack24/Google-Cybersecurity-Training-Portfolio/blob/d6ea3a0b70f338d771dc14e7fe9a03d6eedc8f25/Foundations-of-Cybersecurity/Interactive%20Flashcards.md)? Let’s build your cybersecurity toolkit into something unforgettable! 🚀📘✨
