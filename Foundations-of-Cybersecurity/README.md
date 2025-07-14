@@ -264,3 +264,52 @@ Use of this reference in:
 - GitHub projects or GRC dashboards
 
 Want to enrich this with visuals, badges, or [interactive flashcards](https://cja-cyberhack24.github.io/Google-Cybersecurity-Training-Portfolio/Foundations-of-Cybersecurity/index.html)? Let’s build your cybersecurity toolkit into something unforgettable! 🚀📘✨
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## 🎴 Cybersecurity Flashcards (Interactive)
+
+Launch an offline or browser-based flashcard deck featuring 16 key cybersecurity frameworks!
+
+🧠 [Open the App Online](https://cja-cyberhack24.github.io/Google-Cybersecurity-Training-Portfolio/Foundations-of-Cybersecurity/index.html)
+
+### 🚀 Launch Locally
+
+```bash
+git clone https://github.com/cja-cyberhack24/Google-Cybersecurity-Training-Portfolio.git
+cd Google-Cybersecurity-Training-Portfolio/Foundations-of-Cybersecurity
+start index.html  # For Windows
+open index.html   # For macOS
+xdg-open index.html  # For Linux
