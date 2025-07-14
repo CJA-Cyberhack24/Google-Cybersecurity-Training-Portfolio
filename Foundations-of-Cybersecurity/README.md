@@ -258,6 +258,7 @@ Alignment of these frameworks with organizational needs:
 # 🧠 Module 4: Cybersecurity Tools & Programming Basics
 
   🔧 1. Common Cybersecurity Tools
+
 You’ll learn about tools that help analysts monitor, detect, and respond to threats:
 
 SIEM (Security Information and Event Management) Combines real-time monitoring with log analysis to detect suspicious activity.
@@ -269,6 +270,7 @@ Endpoint Detection Tools Monitor devices for malware, unauthorized access, or po
 Vulnerability Scanners Scan systems for known weaknesses (e.g., outdated software, misconfigurations).
 
   💻 2. Programming Languages for Analysts
+
 You’ll be introduced to basic scripting and query languages used in cybersecurity:
 
 Linux Command Line Essential for navigating systems, running scripts, and managing files securely.
@@ -277,9 +279,12 @@ SQL (Structured Query Language) Used to query databases—helpful for investigat
 
 Python A flexible scripting language used to automate tasks, parse logs, and build tools.
 
+
 📝 You don’t need to become a coder—but understanding how these languages support security operations is key.
 
-📁 3. Portfolio Activity
+
+  📁 3. Portfolio Activity
+
 You’ll be asked to draft a professional statement that reflects your cybersecurity interests and goals. This helps you:
 
 Articulate your career path
@@ -288,7 +293,8 @@ Showcase your understanding of tools and responsibilities
 
 Begin building a portfolio for future job applications
 
-🔑 What to Memorize
+  🔑 What to Memorize
+  
 Names and purposes of key tools (SIEM, Wireshark, etc.)
 
 Basic functions of Linux, SQL, and Python in security work
