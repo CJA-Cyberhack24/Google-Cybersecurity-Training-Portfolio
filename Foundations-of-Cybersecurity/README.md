@@ -314,8 +314,6 @@ This guide provides simplified definitions and visual breakdowns of two core sec
 - 🧭 SIEM (Security Information and Event Management)
 - 📡 Network Protocol Analyzers
 
-Ideal for beginners, exam prep, and GRC onboarding docs.
-
 ---
 
 ## 🧭 SIEM Tools: Summary & Visual Breakdown
