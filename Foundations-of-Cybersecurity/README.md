@@ -305,6 +305,28 @@ Analyst responsibilities and how they use these tools daily
 
 ---
 
+🧷 Visual Study Pins
+
+🎯 SIEM Dashboard Example (Visual Snapshot)
+
+This dashboard shows:
+
+📈 Real-time threat trends
+
+🔍 Suspicious login attempts
+
+🧩 Correlated events across systems
+
+📋 Compliance status
+
+🧠 Memory Tip
+Think of SIEM as a security control room:
+
+It watches everything, connects the dots, and sounds the alarm when something’s off.
+
+
+---
+
 ## 🎴 Cybersecurity Flashcards (Interactive)
 
 Launch an offline or browser-based flashcard deck featuring 16 key cybersecurity frameworks!
