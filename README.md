@@ -61,6 +61,14 @@ Explore it [here:](https://github.com/CJA-Cyberhack24/Google-Cybersecurity-Train
 
 
 ---
+## 🧠 Featured Project: Cybersecurity Flashcards
+
+Interactive learning tool with 16 essential frameworks explained and tracked live.
+
+👉 [Launch the Flashcard App](https://cja-cyberhack24.github.io/Google-Cybersecurity-Training-Portfolio/Foundations-of-Cybersecurity/index.html)
+
+
+---
 
 ## 🙋‍♂️ About Me
 
