@@ -39,5 +39,6 @@ To clone and run locally:
 
 ```bash
 git clone https://github.com/cja-cyberhack24/Google-Cybersecurity-Training-Portfolio.git
-cd Foundations-of-Cybersecurity
-open Flashcards.html
+cd Google-Cybersecurity-Training-Portfolio/Foundations-of-Cybersecurity/Flashcards
+start index.html
+
