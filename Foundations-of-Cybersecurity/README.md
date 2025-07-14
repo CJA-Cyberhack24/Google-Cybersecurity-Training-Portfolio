@@ -224,6 +224,45 @@ Each word represents:
 
 
 ## ✍️ Suggested Activities  
-- Build a comparison table of different cybersecurity frameworks  
-- Identify controls in your personal or work environment  
-- Reflect on ethical dilemmas and how you'd respond as a professional
+🧊 Case Study: Cybersecurity Frameworks & Professional Ethics
+
+# 🔐 Cybersecurity Frameworks – Quick Reference Guide  
+
+A condensed summary of the most essential cybersecurity frameworks used globally to manage risk, ensure privacy, and build secure systems.
+
+---
+
+## 📊 Overview Table
+
+| Framework      | Focus Area                     | Certifiable | Best For                            |
+|----------------|--------------------------------|-------------|--------------------------------------|
+| **NIST CSF**   | Risk-based security strategy   | ❌ No       | U.S. industries, flexible usage      |
+| **ISO/27001**  | InfoSec management system      | ✅ Yes      | Enterprises needing certification    |
+| **CIS Controls** | Technical safeguards         | ❌ No       | IT teams, hands-on implementation    |
+| **PCI-DSS**    | Payment data protection        | ✅ Yes      | Retail, ecommerce, processors        |
+| **SOC 2**      | Security & auditing            | ✅ Yes      | SaaS and cloud providers             |
+| **HIPAA**      | Healthcare data privacy        | ✅ Yes      | U.S. health sector                   |
+| **GDPR**       | EU data protection regulation  | ✅ Yes      | Organizations handling EU data       |
+
+---
+
+## 🧠 Study Hints 
+Alignment of these frameworks with organizational needs:  
+- 🏢 Enterprise? → ISO/27001, SOC 2  
+- 🏪 Retail/ecommerce? → PCI-DSS  
+- 🏥 Healthcare? → HIPAA  
+- 🌐 Global privacy compliance? → GDPR  
+- 🔧 Tech teams? → CIS Controls  
+- 🇺🇸 Public infrastructure? → NIST CSF  
+
+---
+
+## 🚀 Portfolio Tip
+
+Use of this reference in:
+- Cheat sheets or exam prep
+- Risk management presentations
+- Team onboarding documents
+- GitHub projects or GRC dashboards
+
+Want to enrich this with visuals, badges, or [interactive flashcards]()? Let’s build your cybersecurity toolkit into something unforgettable! 🚀📘✨
