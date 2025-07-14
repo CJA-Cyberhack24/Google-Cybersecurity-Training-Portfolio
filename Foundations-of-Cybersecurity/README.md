@@ -293,8 +293,8 @@ Showcase your understanding of tools and responsibilities
 
 Begin building a portfolio for future job applications
 
-  🔑 What to Memorize
-  
+🔑 What to Memorize
+
 Names and purposes of key tools (SIEM, Wireshark, etc.)
 
 Basic functions of Linux, SQL, and Python in security work
@@ -309,7 +309,7 @@ Analyst responsibilities and how they use these tools daily
 
 Launch an offline or browser-based flashcard deck featuring 16 key cybersecurity frameworks!
 
-🧠 [Open the App Online](https://cja-cyberhack24.github.io/Google-Cybersecurity-Training-Portfolio/Foundations-of-Cybersecurity/index.html)
+🧠 [Open the App Online](https://cja-cyberhack24.github.io/Google-Cybersecurity-Training-Portfolio/Foundations-of-Cybersecurity/Flashcards/index.html)
 
 ### 🚀 Launch Locally
 
