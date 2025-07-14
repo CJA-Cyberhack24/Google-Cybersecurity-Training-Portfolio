@@ -223,7 +223,6 @@ Each word represents:
 <img src="https://github.com/CJA-Cyberhack24/Google-Cybersecurity-Training-Portfolio/blob/a5423545027c0d8755c33dc9d735236955611295/Assets/CIA%20Triad.png" width="300"/> 
 
 
-🧊 Case Study: Cybersecurity Frameworks & Professional Ethics
 
 # 🔐 Cybersecurity Frameworks – Quick Reference Guide  
 
