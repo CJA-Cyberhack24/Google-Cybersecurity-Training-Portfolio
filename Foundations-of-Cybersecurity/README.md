@@ -324,7 +324,16 @@ Think of SIEM as a security control room:
 
 It watches everything, connects the dots, and sounds the alarm when something’s off.
 
+📊 What Network Protocol Analyzers Do
 
+They capture and inspect network traffic to help analysts detect issues, threats, or anomalies.
+
+🧰 Popular Tools
+| Tool	 | Known For |
+| Wireshark	 | Deep packet inspection |
+| tcpdump	| Command-line analysis |
+| SolarWinds	| Enterprise monitoring |
+| Snort	| Intrusion detection |
 ---
 
 ## 🎴 Cybersecurity Flashcards (Interactive)
