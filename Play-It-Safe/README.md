@@ -2,8 +2,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" alt="Google Course Logo" width="100"/>
 </p>
 
-<h2><p align="center">🔐 Course 2: Play It Safe – Manage Security Risks</p></h2>
-
 ---
 
 # 🔐 Google Cybersecurity Certificate – Course 2
