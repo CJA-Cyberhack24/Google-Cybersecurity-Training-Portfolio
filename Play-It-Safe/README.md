@@ -4,7 +4,7 @@
 
 <h2><p align="center">🔐 Course 2: Play It Safe – Manage Security Risks</p></h2>
 
----
+
 ## 📚 Course Overview
 
 - 🎯 Learn to identify common threats, risks, and vulnerabilities to business operations  
