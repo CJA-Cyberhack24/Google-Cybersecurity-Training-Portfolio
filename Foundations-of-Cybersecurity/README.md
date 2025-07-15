@@ -2,7 +2,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" alt="Google Course Logo" width="100"/>
 </p>
 
-<h2><p align="center">🧭 Foundations of Cybersecurity</p></h2>
+<h2><p align="center">🧭 Foundations of Cybersecurity - Course 1</p></h2>
 
 ## 🔐 Module 1: Glossary Terms & Definitions
 
