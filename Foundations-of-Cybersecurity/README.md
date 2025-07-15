@@ -291,21 +291,11 @@ Articulate your career path
 
 Showcase your understanding of tools and responsibilities
 
-Begin building a portfolio for future job applications
 
-🔑 What to Memorize
 
-Names and purposes of key tools (SIEM, Wireshark, etc.)
 
-Basic functions of Linux, SQL, and Python in security work
-
-How tools help protect business operations
-
-Analyst responsibilities and how they use these tools daily
 
 ---
-
-🧷 Visual Study Pins
 
 # 🔐 Cybersecurity Analysis Tools: SIEM & Protocol Analyzers
 
