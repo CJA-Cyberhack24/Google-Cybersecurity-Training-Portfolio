@@ -285,15 +285,38 @@ Python A flexible scripting language used to automate tasks, parse logs, and bui
 
   📁 3. Portfolio Activity
 
-You’ll be asked to draft a professional statement that reflects your cybersecurity interests and goals. This helps you:
+## 🧠 Analyst Professional Statement & Responsibilities
 
-Articulate your career path
+As a cybersecurity learner and practitioner, I will develop foundational expertise in tools that support secure infrastructure, threat detection, and incident response.
 
-Showcase your understanding of tools and responsibilities
+### 🔧 Core Tools & Technologies
 
+| Tool / Technology               | Description                                                  |
+|--------------------------------|--------------------------------------------------------------|
+| **SIEM** (e.g., Splunk, Graylog) | Aggregates logs, correlates events, generates alerts         |
+| **Network Protocol Analyzers** (e.g., Wireshark) | Captures and decodes packet traffic for forensic analysis    |
+| **Vulnerability Scanners** (e.g., Nessus, OpenVAS) | Identifies system weaknesses, misconfigurations               |
+| **Endpoint Detection Tools**   | Monitors devices for unauthorized access and malware         |
+| **Encryption Utilities**       | Secures data at rest and in transit (e.g., OpenSSL)          |
+| **Python & Bash Scripts**      | Automates log parsing, threat hunting, and response workflows |
+| **SQL**                        | Queries structured data during investigations                |
 
+---
 
+### 🎯 My Key Responsibilities as a Cybersecurity Analyst
 
+- 🕵️‍♂️ **Threat Monitoring**: Track systems and networks for suspicious activity  
+- 🚨 **Incident Response**: Analyze alerts, contain breaches, and document remediation  
+- 📊 **Risk Assessment**: Evaluate vulnerabilities and prioritize actions  
+- 📜 **Compliance Assurance**: Align infrastructure with legal and regulatory standards  
+- 🤝 **Cross-Team Collaboration**: Communicate findings and support IT operations  
+- 📁 **Documentation**: Maintain logs, IR plans, and policy records for audits  
+
+---
+
+### 🗣️ Personal Reflection
+
+> “I hope to explore through Google Cybersecurity Certification how analysts use Wireshark for packet tracing, SIEM dashboards for real-time detection, and Python to automate log review. These tools not only reveal threats—they help build resilient systems.”
 
 ---
 
