@@ -400,7 +400,7 @@ These tools can be applied in:
 
 Cybersecurity analysts often use scripting and query languages to automate tasks, extract data, and investigate threats. Two of the most foundational languages in the field are:
 
-🐍 Python
+# 🐍 Python
 Purpose: Automation, log parsing, threat detection, tool development
 
 Common Uses:
@@ -414,7 +414,7 @@ Parsing logs and analyzing large datasets
 Why It’s Useful: Python is versatile, beginner-friendly, and backed by strong libraries like requests, hashlib, and scapy
 
 
-🧮 SQL (Structured Query Language)
+# 🧮 SQL (Structured Query Language)
 Purpose: Query and manage databases used in audits, breach investigations, and log reviews
 
 Common Uses:
