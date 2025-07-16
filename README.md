@@ -89,4 +89,3 @@ I'm passionate about cybersecurity and committed to building a safer digital wor
 <br>
 
 [<img align="right" src="https://github.com/CJA-Cyberhack24/Google-Cybersecurity-Training-Portfolio/blob/a13c922e0a74386498b29e7d99c47a34b4425718/Assets/right-arrow-6150.png" alt="Let's begin..." width="60"/>](https://github.com/CJA-Cyberhack24/Google-Cybersecurity-Training-Portfolio/blob/a13c922e0a74386498b29e7d99c47a34b4425718/Foundations-of-Cybersecurity/Module%201/README.md)
-c
