@@ -93,13 +93,11 @@ Here’s a visual representation of the eight CISSP domains as pillars supportin
 🔹 The **foundation** represents stability via governance, ethics, and the CIA triad
 
 # 🖼️ Visual Resources
-You can explore similar visual breakdowns from:
+Explore similar visual breakdowns and build your own interpretations:
 
-Destination Certification’s CISSP Domain Guide
-
-InfoDiagram’s Pillar Diagrams — great for building your own fortress-style slides
-
-Strategy House Templates — useful for customizing your own visual metaphor
+- [Destination Certification – CISSP Domain Guide](https://destcert.com/resources/8-cissp-domains-explained/)
+- [InfoDiagram – Pillar Diagrams](https://blog.infodiagram.com/2018/08/pillar-diagram-ppt-solid-strategy-columns.html)
+- [SlideTeam – Strategy House Templates](https://www.slideteam.net/blog/top-10-strategy-house-templates-with-samples-and-examples)
 
 
 - ⚠️ Defined and differentiated threats, risks, and vulnerabilities  
