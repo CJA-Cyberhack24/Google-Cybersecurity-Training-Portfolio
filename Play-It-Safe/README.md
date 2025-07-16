@@ -23,12 +23,43 @@ This course explores how security analysts identify risks, apply frameworks, mon
 
 ## 🧩 Modules Breakdown
 
-### 📌 Module 1: Security Domains & Risk Management
+📌 Module 1: Security Domains & Risk Management
+🧭 CISSP Eight Security Domains
+These domains form the backbone of cybersecurity knowledge. Each one represents a key area of expertise for security professionals.
 
-- ✅ Understand the CISSP eight security domains  
-- ✅ Evaluate threats, risks, vulnerabilities  
-- ✅ Explore the NIST Risk Management Framework (RMF)
+Domain #	Name	Focus Area
+1️⃣	Security & Risk Management	Governance, compliance, ethics, CIA triad
+2️⃣	Asset Security	Data classification, ownership, retention
+3️⃣	Security Architecture & Engineering	Secure design, cryptography, physical security
+4️⃣	Communication & Network Security	Network protocols, secure architecture
+5️⃣	Identity & Access Management (IAM)	Authentication, authorization, provisioning
+6️⃣	Security Assessment & Testing	Audits, vulnerability scans, penetration tests
+7️⃣	Security Operations	Logging, monitoring, incident response
+8️⃣	Software Development Security	Secure coding, SDLC, threat modeling
+🖼️ Visual Representation: You can explore a mindmap-style breakdown of these domains on Destination Certification or Edureka’s CISSP Guide.
 
+⚠️ Threats, Risks, and Vulnerabilities
+Concept	Definition
+Threat	A potential cause of an unwanted incident (e.g., malware, insider attack)
+Risk	The likelihood and impact of a threat exploiting a vulnerability
+Vulnerability	A weakness in a system that can be exploited (e.g., outdated software)
+🧠 Memory Tip:
+
+Risk = Threat × Vulnerability × Impact
+
+🛡️ NIST Risk Management Framework (RMF)
+The NIST RMF is a structured approach to managing security and privacy risks across the system lifecycle.
+
+🔄 6-Step RMF Process
+[ Prepare ] → [ Categorize ] → [ Select ] → [ Implement ] → [ Assess ] → [ Authorize ] → [ Monitor ]
+Step	Purpose
+Prepare	Set organizational context and risk strategy
+Categorize	Define system impact levels (Low, Moderate, High)
+Select	Choose security controls from NIST SP 800-53
+Implement	Deploy and document controls
+Assess	Evaluate control effectiveness
+Authorize	Decide whether to operate the system
+Monitor	Continuously track changes and control performance
 ---
 
 ### 📌 Module 2: Security Frameworks & Controls
