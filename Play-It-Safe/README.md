@@ -100,8 +100,57 @@ Explore similar visual breakdowns and build your own interpretations:
 - [SlideTeam – Strategy House Templates](https://www.slideteam.net/blog/top-10-strategy-house-templates-with-samples-and-examples)
 
 
-- ⚠️ Defined and differentiated threats, risks, and vulnerabilities  
-- 🛡️ Explored NIST RMF to manage system risk throughout its lifecycle
+### ⚠️ Threats, Risks, and Vulnerabilities – Deep Dive
+
+| 🔐 Concept         | 📘 Definition                                                                  | 💡 Real-World Analogy                        |
+|-------------------|----------------------------------------------------------------------------------|----------------------------------------------|
+| **Threat**         | Potential cause of an unwanted incident (e.g., malware, insider attack)         | A burglar watching an unlocked house         |
+| **Vulnerability**  | Weakness that could be exploited by a threat                                    | The unlocked door itself                     |
+| **Risk**           | The impact if a threat exploits a vulnerability                                 | Theft if the burglar enters                  |
+
+🧠 **Risk Formula**:
+> `Risk = Threat × Vulnerability × Impact`
+
+---
+
+### 🧪 Cybersecurity Example
+
+- **Threat**: Malicious phishing email  
+- **Vulnerability**: No email filtering or user awareness training  
+- **Risk**: Compromise of credentials or access to sensitive data
+
+---
+
+## 🛡️ NIST Risk Management Framework (RMF) – Explained
+
+A 7-step lifecycle used to manage risk across system environments. Developed by NIST under FISMA standards.
+
+
+| 🔄 Step         | 📝 Purpose                                                     |
+|----------------|-----------------------------------------------------------------|
+| **Prepare**     | Set context, mission, and stakeholders                          |
+| **Categorize**  | Define impact levels (Low, Moderate, High)                      |
+| **Select**      | Choose security controls from NIST SP 800-53                    |
+| **Implement**   | Deploy and document selected controls                           |
+| **Assess**      | Validate control effectiveness through testing                  |
+| **Authorize**   | Decide system launch based on risk levels                       |
+| **Monitor**     | Continuously observe control performance and system changes     |
+
+---
+
+### 🧠 Why RMF Matters
+
+- Embeds risk management into every stage of system development  
+- Supports ongoing monitoring and system refinement  
+- Aligns with compliance regulations and best practice frameworks
+
+---
+
+## ✅ Portfolio Integration Ideas
+
+- Create flashcards for each RMF step  
+- Draft a mock risk register using the risk formula  
+- Document threats/vulnerabilities found in a simulated network environment  
 
 ---
 
