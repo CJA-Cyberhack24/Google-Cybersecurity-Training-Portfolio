@@ -82,19 +82,17 @@ A structured lifecycle approach to identify, manage, and monitor system risk.
 
 ## 🧷 Visual Study Pins
 
-- 📚 Learned CISSP domains for holistic security coverage  
+# 📚 CISSP domains for holistic security coverage  
 
-🧠 Why This Metaphor Works
+Here’s a visual representation of the eight CISSP domains as pillars supporting enterprise security:
 
-![CISSP Domains Diagram](./Assets/CISSP.png)
+![CISSP Domains Diagram](Assets/CISSP.png)
 
-Each pillar/domain supports a critical aspect of cybersecurity
+🔹 Each **pillar/domain** reinforces a vital security focus area  
+🔹 The **roof** symbolizes protection of assets and business continuity  
+🔹 The **foundation** represents stability via governance, ethics, and the CIA triad
 
-The roof represents the mission: protecting assets, ensuring continuity
-
-The foundation ensures stability: policies, ethics, and core principles
-
-🖼️ Visual Resources
+# 🖼️ Visual Resources
 You can explore similar visual breakdowns from:
 
 Destination Certification’s CISSP Domain Guide
