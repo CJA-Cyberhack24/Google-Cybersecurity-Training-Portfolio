@@ -21,9 +21,7 @@ This course explores how security analysts identify risks, apply frameworks, mon
 
 ---
 
-## 🧩 Modules Breakdown
-
-📌 Module 1: Security Domains & Risk Management
+### 📌 Module 1: Security Domains & Risk Management
 🧭 CISSP Eight Security Domains
 These domains form the backbone of cybersecurity knowledge. Each one represents a key area of expertise for security professionals.
 
