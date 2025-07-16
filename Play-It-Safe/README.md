@@ -86,7 +86,7 @@ A structured lifecycle approach to identify, manage, and monitor system risk.
 
 Here’s a visual representation of the eight CISSP domains as pillars supporting enterprise security:
 
-<img src="https://github.com/CJA-Cyberhack24/Google-Cybersecurity-Training-Portfolio/blob/c159e4c33f55eeb52ccf8c116195e05c747eff5b/Assets/8%20Domains%20of%20CISSP.png" alt="CISSP Domains Diagram" width="60%" />
+<img src="https://github.com/CJA-Cyberhack24/Google-Cybersecurity-Training-Portfolio/blob/c159e4c33f55eeb52ccf8c116195e05c747eff5b/Assets/8%20Domains%20of%20CISSP.png" alt="CISSP Domains Diagram" width="45%" />
 
 🔹 Each **pillar/domain** reinforces a vital security focus area  
 🔹 The **roof** symbolizes protection of assets and business continuity  
