@@ -80,7 +80,7 @@ A structured lifecycle approach to identify, manage, and monitor system risk.
 
 ---
 
-## 💡 Summary
+## 🧷 Visual Study Pins
 
 - 📚 Learned CISSP domains for holistic security coverage  
 - ⚠️ Defined and differentiated threats, risks, and vulnerabilities  
