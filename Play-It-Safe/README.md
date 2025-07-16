@@ -21,43 +21,85 @@ This course explores how security analysts identify risks, apply frameworks, mon
 
 ---
 
-### 📌 Module 1: Security Domains & Risk Management
-🧭 CISSP Eight Security Domains
-These domains form the backbone of cybersecurity knowledge. Each one represents a key area of expertise for security professionals.
+# 📌 Module 1 – Security Domains & Risk Management
 
-Domain #	Name	Focus Area
-1️⃣	Security & Risk Management	Governance, compliance, ethics, CIA triad
-2️⃣	Asset Security	Data classification, ownership, retention
-3️⃣	Security Architecture & Engineering	Secure design, cryptography, physical security
-4️⃣	Communication & Network Security	Network protocols, secure architecture
-5️⃣	Identity & Access Management (IAM)	Authentication, authorization, provisioning
-6️⃣	Security Assessment & Testing	Audits, vulnerability scans, penetration tests
-7️⃣	Security Operations	Logging, monitoring, incident response
-8️⃣	Software Development Security	Secure coding, SDLC, threat modeling
-🖼️ Visual Representation: You can explore a mindmap-style breakdown of these domains on Destination Certification or Edureka’s CISSP Guide.
+This module introduces foundational concepts in cybersecurity: threat evaluation, risk management, and professional security standards.
 
-⚠️ Threats, Risks, and Vulnerabilities
-Concept	Definition
-Threat	A potential cause of an unwanted incident (e.g., malware, insider attack)
-Risk	The likelihood and impact of a threat exploiting a vulnerability
-Vulnerability	A weakness in a system that can be exploited (e.g., outdated software)
-🧠 Memory Tip:
+---
 
-Risk = Threat × Vulnerability × Impact
+## 🧭 CISSP Eight Security Domains
 
-🛡️ NIST Risk Management Framework (RMF)
-The NIST RMF is a structured approach to managing security and privacy risks across the system lifecycle.
+These domains represent the key knowledge areas for security professionals:
 
-🔄 6-Step RMF Process
-[ Prepare ] → [ Categorize ] → [ Select ] → [ Implement ] → [ Assess ] → [ Authorize ] → [ Monitor ]
-Step	Purpose
-Prepare	Set organizational context and risk strategy
-Categorize	Define system impact levels (Low, Moderate, High)
-Select	Choose security controls from NIST SP 800-53
-Implement	Deploy and document controls
-Assess	Evaluate control effectiveness
-Authorize	Decide whether to operate the system
-Monitor	Continuously track changes and control performance
+| Domain # | Security Domain                       | Description                                        |
+|----------|----------------------------------------|----------------------------------------------------|
+| 1️⃣       | Security & Risk Management             | Governance, policies, CIA triad, ethics            |
+| 2️⃣       | Asset Security                         | Data classification, handling, ownership           |
+| 3️⃣       | Security Architecture & Engineering   | Secure design principles, cryptography, hardware   |
+| 4️⃣       | Communication & Network Security      | Network protocols, segmentation, secure comms      |
+| 5️⃣       | Identity & Access Management (IAM)    | User auth, privileges, provisioning                 |
+| 6️⃣       | Security Assessment & Testing         | Vulnerability scans, audits, pentesting            |
+| 7️⃣       | Security Operations                    | Logging, monitoring, incident response             |
+| 8️⃣       | Software Development Security          | Secure coding, SDLC, threat modeling               |
+
+🧠 *Memory Tip:* Think of these domains as your cybersecurity map—each one tackles a critical piece of the security puzzle.
+
+---
+
+## ⚠️ Threats, Risks, and Vulnerabilities
+
+| Concept        | Definition                                                                 |
+|----------------|------------------------------------------------------------------------------|
+| **Threat**     | Potential event that could harm assets or disrupt systems                   |
+| **Risk**       | Likelihood + impact of a threat exploiting a vulnerability                  |
+| **Vulnerability** | Weakness in a system that could be exploited by threats                    |
+
+📌 *Risk Formula:*  
+> `Risk = Threat × Vulnerability × Impact`
+
+---
+
+## 🛡️ NIST Risk Management Framework (RMF)
+
+A structured lifecycle approach to identify, manage, and monitor system risk.
+
+### 🔄 7-Step RMF Lifecycle
+
+
+| Step         | Description                                                |
+|--------------|------------------------------------------------------------|
+| **Prepare**   | Establish context, stakeholders, and security strategies   |
+| **Categorize**| Determine impact levels based on system types              |
+| **Select**    | Choose appropriate controls from NIST SP 800-53 catalog    |
+| **Implement** | Deploy controls and document implementation                |
+| **Assess**    | Verify control effectiveness via testing and evaluation    |
+| **Authorize** | Approve system operation based on assessed risk            |
+| **Monitor**   | Continuously track system changes and control performance  |
+
+🧠 *Why It Matters:* RMF ensures every system decision aligns with organizational risk tolerance and security goals.
+
+---
+
+## 💡 Summary
+
+- 📚 Learned CISSP domains for holistic security coverage  
+- ⚠️ Defined and differentiated threats, risks, and vulnerabilities  
+- 🛡️ Explored NIST RMF to manage system risk throughout its lifecycle
+
+---
+
+## 🧪 Suggested Portfolio Additions
+
+- 📝 Mindmap or infographic of CISSP domains  
+- 📊 Real-world case study applying risk formula  
+- 📄 Template of RMF steps used in a project simulation
+
+---
+
+## 📜 License
+
+Licensed under the [MIT License](https://opensource.org/licenses/MIT)
+
 ---
 
 ### 📌 Module 2: Security Frameworks & Controls
