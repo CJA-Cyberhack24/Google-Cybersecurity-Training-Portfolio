@@ -99,6 +99,7 @@ Explore similar visual breakdowns and build your own interpretations:
 - [InfoDiagram – Pillar Diagrams](https://blog.infodiagram.com/2018/08/pillar-diagram-ppt-solid-strategy-columns.html)
 - [SlideTeam – Strategy House Templates](https://www.slideteam.net/blog/top-10-strategy-house-templates-with-samples-and-examples)
 
+<br>
 
 ### ⚠️ Threats, Risks, and Vulnerabilities – Deep Dive
 
