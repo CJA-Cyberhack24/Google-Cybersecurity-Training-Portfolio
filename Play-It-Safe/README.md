@@ -96,12 +96,6 @@ A structured lifecycle approach to identify, manage, and monitor system risk.
 
 ---
 
-## 📜 License
-
-Licensed under the [MIT License](https://opensource.org/licenses/MIT)
-
----
-
 ### 📌 Module 2: Security Frameworks & Controls
 
 - 🔐 Learn the CIA triad: Confidentiality, Integrity, Availability  
