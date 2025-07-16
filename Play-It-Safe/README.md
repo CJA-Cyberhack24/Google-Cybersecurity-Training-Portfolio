@@ -122,21 +122,59 @@ Explore similar visual breakdowns and build your own interpretations:
 
 ---
 
-## 🛡️ NIST Risk Management Framework (RMF) – Explained
+🔁 1. Prepare
+Establish organizational risk strategy and context
 
-A 7-step lifecycle used to manage risk across system environments. Developed by NIST under FISMA standards.
+Identify stakeholders, systems, and security policies
+
+Lay the foundation for effective risk management practices
+
+📦 2. Categorize
+Define the information system’s impact level (Low / Moderate / High)
+
+Assign security objectives based on confidentiality, integrity, availability (CIA)
+
+Document system characteristics and dependencies
+
+📋 3. Select
+Choose baseline security controls from NIST SP 800-53
+
+Tailor controls to system impact and organizational needs
+
+Document rationale and implementation approach
+
+🧰 4. Implement
+Deploy selected security controls in the system environment
+
+Ensure proper configuration, documentation, and integration
+
+Begin preparing for future assessment
+
+🕵️ 5. Assess
+Test controls for effectiveness and correct deployment
+
+Identify residual risks or weaknesses
+
+Produce security assessment report with findings and remediation steps
+
+✅ 6. Authorize
+Decide whether the system is safe to operate
+
+Create a Risk Acceptance Statement for stakeholders
+
+Officially grant system authority to proceed
+
+🔄 7. Monitor
+Continuously observe system status and control effectiveness
+
+Track changes, threats, vulnerabilities, and compliance drift
+
+Use metrics and logs to update risk posture
 
 
-| 🔄 Step         | 📝 Purpose                                                     |
-|----------------|-----------------------------------------------------------------|
-| **Prepare**     | Set context, mission, and stakeholders                          |
-| **Categorize**  | Define impact levels (Low, Moderate, High)                      |
-| **Select**      | Choose security controls from NIST SP 800-53                    |
-| **Implement**   | Deploy and document selected controls                           |
-| **Assess**      | Validate control effectiveness through testing                  |
-| **Authorize**   | Decide system launch based on risk levels                       |
-| **Monitor**     | Continuously observe control performance and system changes     |
+💡 Portfolio Tip:
 
+Use this breakdown in your README.md alongside real-world examples (e.g., “Implemented RMF steps during audit simulation”) to show applied knowledge.
 ---
 
 ### 🧠 Why RMF Matters
