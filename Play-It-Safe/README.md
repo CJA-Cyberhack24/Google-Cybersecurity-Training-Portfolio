@@ -83,6 +83,27 @@ A structured lifecycle approach to identify, manage, and monitor system risk.
 ## 🧷 Visual Study Pins
 
 - 📚 Learned CISSP domains for holistic security coverage  
+
+🧠 Why This Metaphor Works
+
+![CISSP Domains Diagram](./Assets/CISSP.png)
+
+Each pillar/domain supports a critical aspect of cybersecurity
+
+The roof represents the mission: protecting assets, ensuring continuity
+
+The foundation ensures stability: policies, ethics, and core principles
+
+🖼️ Visual Resources
+You can explore similar visual breakdowns from:
+
+Destination Certification’s CISSP Domain Guide
+
+InfoDiagram’s Pillar Diagrams — great for building your own fortress-style slides
+
+Strategy House Templates — useful for customizing your own visual metaphor
+
+
 - ⚠️ Defined and differentiated threats, risks, and vulnerabilities  
 - 🛡️ Explored NIST RMF to manage system risk throughout its lifecycle
 
