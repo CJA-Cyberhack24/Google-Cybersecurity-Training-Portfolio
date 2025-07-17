@@ -204,9 +204,54 @@ Use metrics and logs to update risk posture
 
 # 📌 Module 2: Security Frameworks & Controls
 
-- 🔐 Learn the CIA triad: Confidentiality, Integrity, Availability  
-- 🧰 Apply security frameworks: NIST CSF, OWASP principles  
-- 🕵️ Conduct a hands-on security audit and risk review
+
+## 🔐 CIA Triad
+
+The **CIA Triad** is the foundation of information security:
+
+- **Confidentiality**: Ensures sensitive data is accessible only to authorized users.
+  - *Example*: Encrypting patient records in a hospital database.
+- **Integrity**: Guarantees data is accurate and unaltered.
+  - *Example*: Using checksums to verify that a financial transaction hasn’t been tampered with.
+- **Availability**: Ensures systems and data are accessible when needed.
+  - *Example*: Redundant servers and failover systems for an e-commerce site during peak hours.
+
+## 🧰 Security Frameworks
+
+### NIST Cybersecurity Framework (CSF)
+
+A flexible framework with five core functions:
+
+1. **Identify**: Understand assets, risks, and vulnerabilities.
+2. **Protect**: Implement safeguards (e.g., firewalls, access controls).
+3. **Detect**: Monitor systems for anomalies.
+4. **Respond**: Develop incident response plans.
+5. **Recover**: Restore capabilities after an incident.
+
+*Example*: A healthcare provider uses NIST CSF to align its HIPAA compliance strategy.
+
+### OWASP Principles
+
+Focuses on secure software development:
+
+- **Top 10 Risks**: Includes Injection, Broken Authentication, XSS, etc.
+- **Secure Coding Practices**: Input validation, least privilege, secure session management.
+
+*Example*: A developer uses OWASP guidelines to prevent SQL injection in a login form.
+
+## 🕵️ Security Audit & Risk Review
+
+### Security Audit
+
+A systematic evaluation of systems and controls.
+
+- *Example*: Reviewing firewall rules and access logs to ensure only authorized traffic is allowed.
+
+### Risk Review
+
+Identifies potential threats and evaluates their impact.
+
+- *Example*: Assessing the risk of ransomware on a hospital’s network and implementing backup strategies.
 
 ---
 
