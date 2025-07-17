@@ -174,9 +174,8 @@ Track changes, threats, vulnerabilities, and compliance drift
 Use metrics and logs to update risk posture
 
 
-<! -- #💡 Portfolio Tip:
+<!-- 💡 Portfolio Tip: Use this breakdown in your README.md alongside real-world examples (e.g., “Implemented RMF steps during audit simulation”) to show applied knowledge. -->
 
-Use this breakdown in your README.md alongside real-world examples (e.g., “Implemented RMF steps during audit simulation”) to show applied knowledge.# -->
 ---
 
 ### 🧠 Why RMF Matters
