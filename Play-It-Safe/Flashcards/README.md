@@ -50,7 +50,9 @@ Welcome to my interactive cybersecurity quiz interface, designed to reinforce le
 2. Open `index.html` in your browser  
 3. Start entering your answers and see feedback instantly!  
 4. **Or access it live via GitHub Pages:**  
-👉 [Launch Cybersecurity Mastery Quiz](https://cja-cyberhack24.github.io/Google-Cybersecurity-Training-Portfolio/Play-It-Safe/)
+👉 [Launch Cybersecurity Mastery Quiz](https://cja-cyberhack24.github.io/Google-Cybersecurity-Training-Portfolio/Play-It-Safe/Flashcards
+/index.html
+)
 
 
 
