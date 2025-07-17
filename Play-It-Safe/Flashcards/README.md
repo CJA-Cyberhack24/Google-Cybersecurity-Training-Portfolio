@@ -78,10 +78,3 @@ Welcome to my interactive cybersecurity quiz interface, designed to reinforce le
 
 Licensed under the [MIT License](https://opensource.org/licenses/MIT)
 
----
-
-## 🔁 Try the Challenge Version
-
-Want to go beyond flashcards and test yourself live?  
-Jump into the **Interactive Quiz Edition** for real-time scoring and feedback:  
-👉 [Cybersecurity Mastery Challenge – Live Quiz](https://cja-cyberhack24.github.io/Google-Cybersecurity-Training-Portfolio/Play-It-Safe/Flashcards/index.html)
