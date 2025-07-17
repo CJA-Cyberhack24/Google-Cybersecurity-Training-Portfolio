@@ -47,8 +47,11 @@ Welcome to my interactive cybersecurity quiz interface, designed to reinforce le
 ## 🚀 How to Launch It
 
 1. Clone or download the repo  
-2. Open `quiz.html` in your browser  
-3. Start entering your answers and see feedback instantly!
+2. Open `index.html` in your browser  
+3. Start entering your answers and see feedback instantly!  
+4. **Or try it live via GitHub Pages:**  
+👉 [Launch Interactive Quiz](https://cja-cyberhack24.github.io/Google-Cybersecurity-Training-Portfolio/Play-It-Safe/)
+
 
 ---
 
