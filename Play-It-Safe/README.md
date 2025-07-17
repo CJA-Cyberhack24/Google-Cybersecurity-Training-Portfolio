@@ -204,7 +204,6 @@ Use metrics and logs to update risk posture
 
 # 📌 Module 2: Security Frameworks & Controls
 
-
 ## 🔐 CIA Triad
 
 The **CIA Triad** is the foundation of information security:
@@ -257,17 +256,86 @@ Identifies potential threats and evaluates their impact.
 
 # 📌 Module 3: SIEM Tools & Threat Detection
 
-- 📈 Use SIEM tools like Splunk or Graylog to monitor activity  
-- 🔍 Analyze logs and dashboards to flag suspicious behavior  
-- ⚙️ Understand the role of entry-level analysts in threat detection
+## 📈 SIEM Tools Overview
+
+**SIEM (Security Information and Event Management)** tools collect, analyze, and correlate logs from multiple sources.
+
+### Splunk
+
+- Powerful log analysis and visualization.
+- *Example*: Detecting brute-force login attempts by analyzing failed login patterns.
+
+### Graylog
+
+- Open-source log management.
+- *Example*: Monitoring DNS queries for signs of data exfiltration.
+
+## 🔍 Log Analysis & Dashboards
+
+### Suspicious Behavior Detection
+
+- **Indicators**: Repeated failed logins, access from unusual geolocations, privilege escalation.
+- *Example*: A dashboard shows spikes in login failures from a foreign IP—flagged for investigation.
+
+### Dashboards
+
+- Visualize trends and anomalies.
+- *Example*: A heatmap of login activity by time and location helps identify off-hours access.
+
+## ⚙️ Entry-Level Analyst Role
+
+### Responsibilities
+
+- Monitor alerts and logs.
+- Escalate incidents based on severity.
+- Document findings and assist in investigations.
+
+*Example*: An entry-level analyst notices a pattern of failed logins and escalates it to the SOC lead for deeper analysis.
 
 ---
 
 # 📌 Module 4: Incident Response & Playbooks
 
-- 📄 Respond to incidents using playbook procedures  
-- 🚨 Practice containment, eradication, and recovery phases  
-- 🧠 Document alerts and manage incident workflows
+## 📄 Incident Response Playbooks
+
+A **playbook** is a step-by-step guide for handling specific incident types.
+
+### Example: Ransomware Playbook
+
+1. **Detection**: Alert triggered by unusual file encryption.
+2. **Containment**: Isolate infected systems.
+3. **Eradication**: Remove malware and affected files.
+4. **Recovery**: Restore from backups.
+5. **Post-Incident**: Document and update playbook.
+
+## 🚨 Containment, Eradication, Recovery
+
+### Containment
+
+- Prevent spread of the threat.
+- *Example*: Disconnecting a compromised laptop from the network.
+
+### Eradication
+
+- Remove the threat completely.
+- *Example*: Using antivirus tools to delete malware.
+
+### Recovery
+
+- Restore normal operations.
+- *Example*: Reinstalling OS and restoring data from backups.
+
+## 🧠 Alert Documentation & Workflow Management
+
+### Alert Documentation
+
+- Record incident details: time, source, affected systems, actions taken.
+- *Example*: SOC analyst logs a phishing alert with email headers and user impact.
+
+### Workflow Management
+
+- Assign tasks, track progress, and ensure resolution.
+- *Example*: Using a ticketing system (e.g., Jira or ServiceNow) to manage incident lifecycle.
 
 ---
 
