@@ -51,8 +51,7 @@ Welcome to my interactive cybersecurity quiz interface, designed to reinforce le
 3. Start entering your answers and see feedback instantly!  
 4. **Or access it live via GitHub Pages:**  
 👉 [Launch Cybersecurity Mastery Quiz](https://cja-cyberhack24.github.io/Google-Cybersecurity-Training-Portfolio/Play-It-Safe/Flashcards
-/index.html
-)
+/index.html)
 
 
 
@@ -69,7 +68,7 @@ Welcome to my interactive cybersecurity quiz interface, designed to reinforce le
 
 ## 🧠 Related Projects
 
-- [Cybersecurity Flashcard Deck](../Cybersecurity-Flashcards) – For study-first memory boosting  
+- [Cybersecurity Flashcard Deck](https://cja-cyberhack24.github.io/Google-Cybersecurity-Training-Portfolio/Foundations-of-Cybersecurity/Flashcards/index.html) – For study-first memory boosting  
 - [SIEM Threat Lab](../SIEM-Dashboard-Showcase) – Visual analysis with mock dashboards
 
 ---
