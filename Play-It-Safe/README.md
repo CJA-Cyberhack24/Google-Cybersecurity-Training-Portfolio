@@ -202,7 +202,7 @@ Use metrics and logs to update risk posture
 
 ---
 
-### 📌 Module 2: Security Frameworks & Controls
+# 📌 Module 2: Security Frameworks & Controls
 
 - 🔐 Learn the CIA triad: Confidentiality, Integrity, Availability  
 - 🧰 Apply security frameworks: NIST CSF, OWASP principles  
@@ -210,7 +210,7 @@ Use metrics and logs to update risk posture
 
 ---
 
-### 📌 Module 3: SIEM Tools & Threat Detection
+# 📌 Module 3: SIEM Tools & Threat Detection
 
 - 📈 Use SIEM tools like Splunk or Graylog to monitor activity  
 - 🔍 Analyze logs and dashboards to flag suspicious behavior  
@@ -218,7 +218,7 @@ Use metrics and logs to update risk posture
 
 ---
 
-### 📌 Module 4: Incident Response & Playbooks
+# 📌 Module 4: Incident Response & Playbooks
 
 - 📄 Respond to incidents using playbook procedures  
 - 🚨 Practice containment, eradication, and recovery phases  
