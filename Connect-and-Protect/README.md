@@ -191,3 +191,21 @@ This module focuses on proactive defense: hardening systems and networks to redu
 - Create a hardening checklist for Linux/Windows
 - Document a cloud security audit
 - Build a NIST CSF response flowchart
+
+<!-- 
+🧭 Module 1 Diagram Plan:
+- Visualize LAN/WAN topology with labeled devices (router, switch, firewall)
+- Include TCP/IP stack flow alongside packet journey
+
+🔧 Module 2 Diagram Plan:
+- Protocol flowchart showing how DHCP, DNS, VPN interact with firewall rules
+- Highlight secure zone mapping with DMZ and VLAN examples
+
+🚨 Module 3 Diagram Plan:
+- Attack tree diagram: DDoS > Packet Sniffing > MitM > IP Spoofing
+- IDS/IPS workflow with log capture and alert escalation
+
+🛡️ Module 4 Diagram Plan:
+- OS hardening before/after config comparison
+- Cloud architecture diagram with access controls, encryption layers, risk zones
+-->
