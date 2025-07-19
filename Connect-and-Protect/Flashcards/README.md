@@ -67,7 +67,8 @@ Licensed under the [MIT License](https://opensource.org/licenses/MIT)
 ## 🚀 How to Launch It
 Choose your learning experience based on your current mood or focus:
 
-<p align="center"> <a href="https://cja-cyberhack24.github.io/Google-Cybersecurity-Training-Portfolio/Connect-and-Protect/Flashcards/" style="text-decoration:none;"> <button style="padding: 0.7rem 1.2rem; font-size: 1rem; border: none; border-radius: 5px; background-color: #007acc; color: white;">🎴 Study Mode</button> </a> &nbsp;&nbsp; <a href="https://cja-cyberhack24.github.io/Google-Cybersecurity-Training-Portfolio/Connect-and-Protect/Quiz/" style="text-decoration:none;"> <button style="padding: 0.7rem 1.2rem; font-size: 1rem; border: none; border-radius: 5px; background-color: #28a745; color: white;">🧪 Challenge Mode</button> </a> </p>
+<p align="center"> <a href="https://cja-cyberhack24.github.io/Google-Cybersecurity-Training-Portfolio/Connect-and-Protect/Flashcards/" style="text-decoration:none;"> <button style="padding: 0.7rem 1.2rem; font-size: 1rem; border: none; border-radius: 5px; background-color: #007acc; color: white;">🎴 Study Mode</button> </a> &nbsp;&nbsp; <a href="https://cja-cyberhack24.github.io/Google-Cybersecurity-Training-Portfolio/Connect-and-Protect/Quiz/)
+" style="text-decoration:none;"> <button style="padding: 0.7rem 1.2rem; font-size: 1rem; border: none; border-radius: 5px; background-color: #28a745; color: white;">🧪 Challenge Mode</button> </a> </p>
 
 Study Mode: Review key concepts at your own pace with curated flashcards
 
