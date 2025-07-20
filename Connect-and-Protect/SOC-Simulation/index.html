@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>SOC Analyst Simulation – Connect & Protect</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      background: #f4f7fa;
+      padding: 2rem;
+      max-width: 800px;
+      margin: auto;
+      color: #333;
+    }
+    h1 {
+      font-size: 2rem;
+      margin-bottom: 0.3rem;
+    }
+    h2 {
+      font-size: 1.2rem;
+      color: #666;
+      margin-bottom: 1.5rem;
+    }
+    .scenario {
+      background: #fff;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+      padding: 1.2rem;
+      margin-bottom: 2rem;
+      box-shadow: 0 0 8px rgba(0,0,0,0.05);
+    }
+    select, button {
+      margin-top: 0.6rem;
+      padding: 0.5rem;
+      font-size: 1rem;
+    }
+    .result {
+      font-weight: bold;
+      margin-top: 0.8rem;
+    }
+    #scoreBoard {
+      font-size: 1rem;
+      font-weight: bold;
+      color: #007acc;
+      margin-bottom: 1.5rem;
+    }
+  </style>
+</head>
+<body>
+  <h1>🛡️ SOC Analyst Simulation</h1>
+  <h2>Play through real-world cybersecurity scenarios as a Tier 1 analyst</h2>
+  <div id="scoreBoard">Score: 0/0</div>
+
+  <div class="scenario">
+    <p><strong>Scenario 1:</strong> You receive an alert: "Multiple failed login attempts from IP 192.168.6.44"</p>
+    <label for="s1">What action do you take?</label><br/>
+    <select id="s1">
+      <option value="">-- Select --</option>
+      <option value="review">Review logs and geo-location of the IP</option>
+      <option value="ignore">Ignore — normal login behavior</option>
+      <option value="reset">Reset credentials without checking</option>
+    </select>
+    <button onclick="checkSelection('s1','review',1)">Submit</button>
+    <p class="result" id="result1"></p>
+  </div>
+
+  <div class="scenario">
+    <p><strong>Scenario 2:</strong> Email flagged by phishing filter: "Urgent: payroll access required"</p>
+    <label for="s2">What's your next step?</label><br/>
+    <select id="s2">
+      <option value="">-- Select --</option>
+      <option value="quarantine">Quarantine email and notify user</option>
+      <option value="open">Open email and reply cautiously</option>
+      <option value="delete">Delete email silently</option>
+    </select>
+    <button onclick="checkSelection('s2','quarantine',2)">Submit</button>
+    <p class="result" id="result2"></p>
+  </div>
+
+  <div class="scenario">
+    <p><strong>Scenario 3:</strong> A public-facing web app shows signs of SQL injection in logs.</p>
+    <label for="s3">Best initial response?</label><br/>
+    <select id="s3">
+      <option value="">-- Select --</option>
+      <option value="monitor">Monitor for further signs of escalation</option>
+      <option value="block">Block offending IP and alert dev team</option>
+      <option value="patch">Immediately patch without investigating</option>
+    </select>
+    <button onclick="checkSelection('s3','block',3)">Submit</button>
+    <p class="result" id="result3"></p>
+  </div>
+
+  <script>
+    let score = 0;
+    let total = 0;
+
+    function checkSelection(id, correctValue, resultIdNum) {
+      const userValue = document.getElementById(id).value;
+      const resultDisplay = document.getElementById("result" + resultIdNum);
+      total++;
+
+      if (userValue === correctValue) {
+        score++;
+        resultDisplay.textContent = "✅ Correct decision!";
+        resultDisplay.style.color = "green";
+      } else {
+        resultDisplay.textContent = "❌ Suboptimal. Correct: " + correctValue;
+        resultDisplay.style.color = "red";
+      }
+
+      document.getElementById("scoreBoard").textContent = "Score: " + score + "/" + total;
+    }
+  </script>
+</body>
+</html>
