@@ -223,3 +223,7 @@ Choose your learning experience based on your current mood or focus:
     <button style="padding: 0.7rem 1.2rem; font-size: 1rem; border: none; border-radius: 5px; background-color: #28a745; color: white;">🧪 Challenge Mode</button>
   </a>
 </p>
+
+<a href="https://cja-cyberhack24.github.io/Google-Cybersecurity-Training-Portfolio/Connect-and-Protect/SOC-Simulation/index.html" style="text-decoration:none;">
+  <button style="padding: 0.7rem 1.2rem; font-size: 1rem; border: none; border-radius: 5px; background-color: #ff9800; color: white;">🛡️ SOC Simulation</button>
+</a>
