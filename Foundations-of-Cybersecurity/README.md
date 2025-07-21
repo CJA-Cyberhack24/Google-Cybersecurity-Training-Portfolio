@@ -472,8 +472,7 @@ xdg-open index.html  # For Linux
 
 ---
 
-➡️ **Next Up:** [Course 2 – Play It Safe][course2]
+➡️ **Next Up:** [Course 2 – Play It Safe](https://github.com/CJA-Cyberhack24/Google-Cybersecurity-Training-Portfolio/blob/577130f7ee16a8524e9eb007b9bf8389e20a89b3/Play-It-Safe/README.md)
 
-[course2]: https://github.com/CJA-Cyberhack24/Google-Cybersecurity-Training-Portfolio/blob/577130f7ee16a8524e9eb007b9bf8389e20a89b3/Play-It-Safe/README.md
 
 
