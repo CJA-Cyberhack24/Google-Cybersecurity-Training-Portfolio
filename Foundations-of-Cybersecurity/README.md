@@ -468,3 +468,8 @@ cd Google-Cybersecurity-Training-Portfolio/Foundations-of-Cybersecurity
 start index.html  # For Windows
 open index.html   # For macOS
 xdg-open index.html  # For Linux
+
+<br>
+
+[<img align="right" src="https://github.com/CJA-Cyberhack24/Google-Cybersecurity-Training-Portfolio/blob/a13c922e0a74386498b29e7d99c47a34b4425718/Assets/right-arrow-6150.png" alt="" width="60"/>](https://github.com/CJA-Cyberhack24/Google-Cybersecurity-Training-Portfolio/blob/cc17b78fbc387da8a8f61646eb1d65e9f6dc8bfd/Play-It-Safe/README.md)
+
