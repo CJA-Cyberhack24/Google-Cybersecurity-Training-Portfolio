@@ -473,7 +473,9 @@ xdg-open index.html  # For Linux
 ---
 
 ➡️ **Next Up:** [Course 2 – Play It Safe](../Play-It-Safe/README.md)
+
 [<img align="right" src="../Assets/right-arrow-6150.png" alt="Next" width="60"/>](../Play-It-Safe/README.md)
+
 
 
 
