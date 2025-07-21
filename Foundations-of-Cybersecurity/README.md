@@ -472,7 +472,6 @@ xdg-open index.html  # For Linux
 
 ---
 
-➡️ **Next Up:** [Course 2 – Play It Safe][course2]
+➡️ **Next Up:** [Course 2 – Play It Safe](../Play-It-Safe/README.md)
 
-[course2]: ../Play-It-Safe/README.md
 
