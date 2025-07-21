@@ -471,7 +471,7 @@ xdg-open index.html  # For Linux
 
 ---
 
-## ⏭️ Continue Your Cybersecurity Journey
+### ⏭️ Continue Your Cybersecurity Journey
 
 Ready to move on to the next challenge?  
 👉 [Explore Course 2 – Play-It-Safe](https://github.com/CJA-Cyberhack24/Google-Cybersecurity-Training-Portfolio/blob/34713418ee010408c0394e8abbcbb572315f9a57/Play-It-Safe/README.md)
