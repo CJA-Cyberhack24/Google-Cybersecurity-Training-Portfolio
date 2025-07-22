@@ -472,9 +472,9 @@ xdg-open index.html  # For Linux
 
 ---
 
-➡️ **Next Up:** [Course 2 – Play It Safe](../Play-It-Safe/README.md)
+<br>
 
-[<img align="right" src="../Assets/right-arrow-6150.png" alt="Next" width="60"/>](Play-It-Safe/README.md)
+[<img align="right" src="https://github.com/CJA-Cyberhack24/Google-Cybersecurity-Training-Portfolio/blob/6b3e104779fadfa973580e32422c7250fc915ee8/Assets/right-arrow-6150.png" alt="" width="60"/>](https://github.com/CJA-Cyberhack24/Google-Cybersecurity-Training-Portfolio/blob/6b3e104779fadfa973580e32422c7250fc915ee8/Foundations-of-Cybersecurity/README.md)
 
 
 
