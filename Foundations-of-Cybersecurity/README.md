@@ -470,11 +470,9 @@ open index.html   # For macOS
 xdg-open index.html  # For Linux
 
 
----
-
 <br>
 
-[<img align="right" src="https://github.com/CJA-Cyberhack24/Google-Cybersecurity-Training-Portfolio/blob/6b3e104779fadfa973580e32422c7250fc915ee8/Assets/right-arrow-6150.png" alt="" width="60"/>](https://github.com/CJA-Cyberhack24/Google-Cybersecurity-Training-Portfolio/blob/6b3e104779fadfa973580e32422c7250fc915ee8/Foundations-of-Cybersecurity/README.md)
+[<img align="right" src="https://github.com/CJA-Cyberhack24/Google-Cybersecurity-Training-Portfolio/blob/6b3e104779fadfa973580e32422c7250fc915ee8/Assets/right-arrow-6150.png" alt="Next" width="60"/>](https://github.com/CJA-Cyberhack24/Google-Cybersecurity-Training-Portfolio/blob/6b3e104779fadfa973580e32422c7250fc915ee8/Foundations-of-Cybersecurity/README.md)
 
 
 
