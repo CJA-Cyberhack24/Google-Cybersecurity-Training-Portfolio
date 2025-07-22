@@ -471,9 +471,6 @@ xdg-open index.html  # For Linux
 
 ---
 
-<br>
-
-[<img align="right" src="../Assets/right-arrow-6150.png" alt="Next" width="60"/>](../Play-It-Safe/README.md)
 
 
 
